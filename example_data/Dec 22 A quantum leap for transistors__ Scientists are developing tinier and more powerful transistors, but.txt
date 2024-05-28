@@ -1,0 +1,89 @@
+
+
+ 
+A quantum leap for transistors?: Scientists are developing tinier and more 
+powerful transistors, but stability becomes an issue when they reach the 
+atomic scale
+Hamilton Spectator (Ontario, Canada)
+December 22, 1997 Monday Final Edition
+Copyright 1997 Metroland Media Group Ltd
+Section: COMPUTERS; Pg. B4; News
+Length: 640 words
+Byline: Keay Davidson
+Body
+In the last half-century, transistors have increased millions of times in power -- but that's not good enough.
+Manufacturers  are  developing  ways  to  manufacture  chips  with  transistors  so  minuscule,  so  delicate,  that  present 
+methods will seem as crude as cutting a diamond with a chain saw.
+Nowadays,  microelectronics  engineers  manufacture  chips  via  optical  lithography.  In  this  technique  --  akin  to 
+photography  --  images  of  different  parts  of  the  chip  are  projected  onto  a  special  plate.  The  plate  is  bathed  in 
+chemicals  and  developed,  like  a  negative  in  a  photo  lab.  Modern  chips  have  several  layers,  like  multi-storey 
+buildings.
+The San Francisco Examiner
+Chips are getting so small that their individual components are smaller than the wavelength of visible light, so sub-
+optical lithography is needed.
+Some  scientists  are  investigating  forms  of  lithography  that  cut  a  super-fine  microchip  with  beams  of  electrons. 
+Others  are  developing  lithography  that  uses  radiation  at  X-ray  and  extreme  ultraviolet  wavelengths,  which  are 
+shorter than those of visible light.
+By  about  2002  or  2003,  scientists  at  Bell  Laboratories/Lucent  Technologies  expect  to  shrink  chip  components  to 
+about 0.13 microns. A micron is a millionth of a metre.
+At  0.13  micron,  optical  lithography  "just  gets  harder  and  harder,"  says  William  Brinkman,  the  company's  vice-
+president  of  physical  sciences  research.  At  that  point,  Lucent  will  have  to  shift  to  electron-beam  lithography  -- 
+assuming it works.
+And if it doesn't? "We'll be stuck," Brinkman admits. "This is a thing that has to happen."
+Another problem arises as transistors shrink to atomic scale. At that level, the weird world of quantum physics starts 
+to  take  over:  The  movement  of  electrons  becomes  much  harder  to  predict,  and  is  governed  by  principles  of 
+statistics rather than the neat, clean exactitudes of Newtonian physics.
+Some fear that chips with components comparable in size to atoms could be hopelessly unreliable.
+But  quantum  effects  may  be  an  opportunity,  not  a  barrier.  Quantum  computers  could  be  stunningly  faster  than 
+anything currently available.
+
+Page 2 of 3
+A quantum leap for transistors?: Scientists are developing tinier and more powerful transistors, but stability 
+becomes an issue when they reach the atomic scale
+ 
+Some  scientific  problems  are  so  complex  that  no  existing  computer  can  crunch  the  necessary  numbers  in  a 
+reasonable time. In some cases, the computer would require a period of time equal, in seconds, to the numeral 1 
+followed by 40 zeros, says Stanley Williams of Hewlett-Packard in Palo Alto, Calif.
+The present age of the universe in seconds is believed to be the numeral 1 followed by 17 zeros.
+Quantum computing already exists, in rudimentary form.
+"Exactly a year ago, if I had been asked how long it would be before the simplest quantum computation could be 
+done, I'd have said 10 years," says Williams, who runs Hewlett-Packard's Quantum Structures Research Initiative. 
+"And now, it has already been done at UC-Berkeley, Oxford, Los Alamos, in actual experiments."
+One  type  of  quantum  computer  might  store  information  in  hydrogen  atoms,  the  lightest  element.  Ordinarily,  a 
+single  electron  orbits  an  hydrogen  atom.  By  firing  a  micro-laser  at  the  atom,  the  electron  can  be  switched  from  a 
+high orbit to a low orbit, back and forth, like flicking a light switch on and off. To the quantum computer, the low-
+orbit electron would represent "0" and the high-orbit electron would be "1." In this way the computer could calculate 
+using the same binary code -- long strings of 0s and 1s that symbolize data -- now used by computers.
+Intel co-founder Gordon Moore is more skeptical.
+"Maybe I've been in this business too long," he acknowledges, "but from what I've seen of quantum computing, it 
+looks  to  me  more  like  a  way  to  show  some  of  the  counter-intuitive  effects  of  quantum  mechanics  than  a  practical 
+route to making a useful device."
+Still, Moore adds with a laugh, "Predicting something won't work is one of the most dangerous things to do in this 
+business."
+Graphic
+ 
+Photo: Photo: Kaz Novak, The Spectator; Transistors used in chips are increasingly smaller.
+Classification
+Language: ENGLISH
+Subject: SCIENCE & TECHNOLOGY (90%); PHYSICS (89%); QUANTUM COMPUTING (89%); QUANTUM 
+MECHANICS (89%); MICROTECHNOLOGY (78%); EXPERIMENTATION & RESEARCH (76%); ELECTRICAL 
+ENGINEERING (73%); INVESTIGATIONS (68%)
+Company: ALCATEL-LUCENT SA  (83%);  BELL LABORATORIES  (55%);  HEWLETT-PACKARD CO  (51%)
+Ticker: ALU (PAR)  (83%);  ALU (NYSE)  (83%);  ALU (BIT)  (83%);  HPQ (NYSE)  (51%)
+Industry: SIC3661 TELEPHONE & TELEGRAPH APPARATUS  (83%);  NAICS334220 RADIO & TELEVISION 
+BROADCASTING & WIRELESS COMMUNICATIONS EQUIPMENT MANUFACTURING  (83%);  NAICS334210 
+TELEPHONE APPARATUS MANUFACTURING  (83%);  SIC3663 RADIO & TELEVISION BROADCASTING & 
+
+Page 3 of 3
+A quantum leap for transistors?: Scientists are developing tinier and more powerful transistors, but stability 
+becomes an issue when they reach the atomic scale
+ 
+COMMUNICATIONS EQUIPMENT  (83%);  NAICS334118 COMPUTER TERMINAL & OTHER COMPUTER 
+PERIPHERAL EQUIPMENT MANUFACTURING  (51%); MANUFACTURING (90%); SEMICONDUCTOR MFG 
+(90%); TELECOMMUNICATIONS EQUIPMENT MFG (90%); COMPUTER EQUIPMENT (89%); QUANTUM 
+COMPUTING (89%); COMPUTER CHIPS (79%); MICROTECHNOLOGY (78%); ELECTRICAL ENGINEERING 
+(73%); MEDIA & TELECOMMUNICATIONS (73%)
+Geographic: SAN FRANCISCO BAY AREA, CA, USA (57%); ONTARIO, CANADA (90%); CALIFORNIA, USA 
+(73%); CANADA (88%)
+Load-Date: October 14, 2002
+End of Document

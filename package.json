@@ -1,0 +1,20 @@
+{
+  "name": "quantumdata_gpt",
+  "version": "1.0.0",
+  "description": "Process PDFs first",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "he": "^1.2.0",
+    "openai": "^3.3.0",
+    "pdf-parse": "^1.1.1",
+    "recursive-readdir": "^2.2.3",
+    "xlsx": "^0.18.5"
+  }
+}

@@ -1,0 +1,106 @@
+
+
+ 
+Moore's almanac; * FUTURE SHOCK RESHAPE I.T.
+Sydney Morning Herald (Australia)
+July 8, 1997 Tuesday
+Late Edition
+Copyright 1997 John Fairfax Publications Pty Ltd All Rights Reserved
+Section: COMPUTERS; Information Technology; Pg. 6
+Length: 979 words
+Byline: PETER LEYDEN
+Body
+Doubling, superchips, quantum leaps; PETER LEYDEN talks to Gordon Moore, Intel's board chair emeritus.
+FOR more than 30 years, Moore's Law has governed Silicon Valley like an immutable force of nature. The idea that 
+processing  power  will  double  every  18  months  has  been  treated  as  an  axiom  -  rather  than  the  rule  of  thumb  it 
+actually is.
+No-one  knows  this  better  than  Gordon  Moore  (pictured  right).  In  an  obscure  1965  magazine  article,  Moore,  then 
+R&D  director  at  Fairchild  Semiconductor,  reluctantly  predicted  the  expected  increase  in  the  power  of  integrated 
+circuits over 10 years.
+By  the  1970s,  Moore  was  a  co-founder  of  Intel,  and  his  tenuous  "law"  was  well  on  its  way  to  becoming  a  self-
+fulfilling prophecy among researchers, manufacturers, and vendors.
+Now, at 68, Moore will serve as Intel's board chair emeritus. Moore is asked to look towards the next 30 years and, 
+again, make some predictions about the future of computing power.
+LEYDEN: How long will Moore's Law hold?
+MOORE: It'll go for at least a few more generations of technology.
+Then,  in  about  a  decade,  we're  going  to  see  a  distinct  slowing  in  the  rate  at  which  the  doubling  occurs.  I  haven't 
+tried to estimate what the rate will be, but it might be half as fast - three years instead of 18 months.
+What will cause the slowdown?
+We're running into a barrier that we've run up against several times before: the limits of optical lithography.
+We  use  light  to  print  the  patterns  of  circuits,  and  we're  reaching  a  point  where  the  wavelengths  are  getting  into  a 
+range where you can't build lenses anymore. You have to switch to something like X-rays.
+Would X-rays open a whole new round of doubling?
+Theoretically, they keep us on this curve for a longer time. Practically, they have a lot of problems. If we get away 
+from optical lithography, somehow we have to get the subsequent technique up to the same level of sophistication 
+to keep making progress rapidly.
+X-rays represent a sufficiently dramatic change that it will be difficult to build on what we've done in the past. We'll 
+have to start over, and it's going to take a long time to get traction.
+
+Page 2 of 3
+Moore's almanac; * FUTURE SHOCK RESHAPE I.T.
+ 
+Obviously, the industry is worried about this. We're looking at a $US200 billion industry that typically invests 10 per 
+cent of its revenues into research and development.
+A significant fraction of that will be aimed at solving this problem. Maybe something will come out that will make this 
+transition a lot less onerous than I believe.
+Are the costs getting prohibitive?
+Recently somebody gave me Moore's Second Law: The cost of manufacturing facilities doubles every generation.
+In  the  late  1980s,  billiondollar  plants  seemed  like  something  a  long  way  in  the  future.  They  seemed  almost 
+inconceivable.
+But now, Intel has two plants that will cost more than $2.5 billion apiece.
+And the cost of each generation after that will double?
+That's where you get into numbers that sound impossible again.
+If we double it for a couple of generations, we're looking at $10 billion plants. I don't think there's any industry in the 
+world that builds $10 billion plants, although oil refineries probably come close.
+Obviously,  our  first  reaction  is  to  see  what  we  can  do  to  keep  the  technology  moving  but  the  costs  down.  For 
+example, we used to build a completely new set of equipment each generation. Now our development people try to 
+reutilise as much of the previous generation's equipment as possible. And they've been pretty successful.
+We may bring a $10 billion plant down to the $5 billion range. But these are still huge numbers.
+What will we be able to do with these superchips?
+Even with the level of technology that we can extrapolate fairly easily - a few more generations - we can imagine 
+putting a billion transistors on a chip.
+A  billion  transistors  is  mind-boggling.  Exploiting  that  level  of  technology,  even  if  we  get  hung  up  at  a  mere  billion 
+transistors, could keep us busy for a century.
+How much more powerful than today's chips are billiontransistor chips?
+Our  most  advanced  chips  in  design  today  will  have  less  than  10  million  transistors.  So,  we're  talking  about  a 
+hundred times the complexity of today's chips.
+We wouldn't have the foggiest idea what to do with a billion transistors right now, except to put more memory in a 
+chip and speed it up. But as far as adding functionality, we don't know what can be done.
+Do you think DNA computing, or organic semiconductors, could supersede microprocessors?
+I'm sceptical about that stuff. You stir up a bunch of goo, and it's going to do something? I'm a chemist, so I can say 
+this. The things we build don't happen that way. We're more deliberate in the way we do things.
+I  believe  that  the  technology  our  industry  has  developed  -  this  idea  of  building  very  complex  structures  layer  by 
+layer - is a fundamental technology.
+It  is  as  fundamental  to  the  Digital  Revolution  as  metalworking  was  to  the  Industrial  Revolution.  I  don't  believe  it's 
+going to be replaced. But I could be wrong; I could be too tied up in my own technology.
+What about quantum computing or building computers with nanotechnology?
+
+Page 3 of 3
+Moore's almanac; * FUTURE SHOCK RESHAPE I.T.
+ 
+I'm sceptical about this, too, but it's closer to what we do than the DNA stuff. Quantum devices may be the ultimate 
+transistors.
+The transistor doesn't behave very well when you get down to very small dimensions, but that gets into the realm 
+where things like quantum devices start working.
+We may make the transition to a kind of quantum device that keeps this whole trend going. Quantum devices are 
+pretty  far  out,  and  a  lot  of  work  has  to  be  done.  They're  far  enough  away  that  they're  beyond  my  tenure  in  this 
+industry - a couple of decades from now.
+Is there ever a point where you see so many problems ahead, you just want to give up?
+Engineers  thrive  on  problems.  They  are  trained  to  solve  problems.  When  they  run  out  of  problems,  they  become 
+very frustrated.
+I see. So you're just loving this?
+Yeah, this is great stuff!
+Classification
+Language: ENGLISH
+Publication-Type: Newspaper
+Subject: RESEARCH & DEVELOPMENT (79%); MANUFACTURING FACILITIES (72%); Company/Intel (%)
+Company:  INTEL CORP (96%)
+Ticker: INTC (NASDAQ) (96%)
+Industry: NAICS334413 SEMICONDUCTOR & RELATED DEVICE MANUFACTURING (96%); 
+MICROPROCESSORS (90%); SEMICONDUCTOR MFG (90%); SEMICONDUCTORS (90%); MANUFACTURING 
+(89%); COMPUTER EQUIPMENT (79%); COMPUTER CHIPS (74%); MANUFACTURING FACILITIES (72%); 
+INDUSTRIAL PROPERTY (63%)
+Person: GORDON MOORE (92%)
+Geographic: SILICON VALLEY, CA, USA (79%); SYDNEY, AUSTRALIA (74%); AUSTRALIA (74%)
+Load-Date: July 23, 2007
+End of Document

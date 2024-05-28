@@ -1,0 +1,128 @@
+
+
+ 
+A LOOK AT HOW WE'LL COMPUTE EXPO PROVIDES 50-YEAR GLIMPSE 
+INTO THE FUTURE
+San Jose Mercury News (California)
+MARCH 4, 1997 Tuesday MORNING FINAL EDITION
+Copyright 1997 San Jose Mercury News  All Rights Reserved
+Section: FRONT; Pg. 10A
+Length: 1219 words
+Byline: Mercury News Staff Report
+Body
+If you thought the last 50 years in computing have been interesting, get ready to be amazed -- and puzzled -- in the 
+next half century.
+We're all on what promises to be a long and event-filled journey, some of the computing world's top thinkers told a 
+high-powered audience Monday in the first session of the three-day ACM97 conference at the San Jose McEnery 
+Convention Center.
+But don't believe anyone, they indicated, who says they can predict the path we'll be taking.
+Matching the human brain
+"For  short-term  predictions,  bet  against  the  optimist,"  said  Gordon  Bell,  Microsoft  Corp.  senior  researcher  and  a 
+longtime computing innovator. "Long-term, scientifically based predictions have a good chance."
+Look  to  engineers  for  short-term  predictions,  Bell  said;  they  tend  to  be  limited  in  their  vision  to  the  one  or  two 
+projects in front of them.
+Computers could match the processing power of the human brain in 50 years, he said. Such computers would be 
+portable, augmenting one's senses by recording the stimuli of everyday life, he said.
+"If we can maintain the storage density gains, these things can be worn in various ways and will be no larger than 
+pagers," he said. "Pagers, watches, belts, billfolds are at the limit of what's comfortable to be 'on-body.' "
+Bell strongly believes in "telepresence" -- the notion that people will attend events not in person but via cyberspace 
+-- and he confidently predicted that "the 2047 conference will be in cyberspace, not real space."
+Perceptual challenges
+A  common  fruit  fly  buzzing  off  the  kitchen  counter  just  ahead  of  your  hand  does  a  better  job  of  processing  visual 
+information than a state-of-the-art multiprocessor digital computer.
+That intrigues Carver Mead, a professor at the California Institute of Technology in Pasadena, who laid down much 
+of the fundamental theory behind today's microprocessors.
+He's frustrated that conventional chips aren't getting much better at perception tasks such as hearing and vision -- 
+tasks that apparently pose no challenge to simple life forms, such as insects and reptiles, let alone human beings.
+"Digital  systems  look  like  the  whole  world  to  us  today,"  Mead  said.  "I  look  on  them  as  the  start  in  a  range  of 
+computing systems."
+
+Page 2 of 4
+A LOOK AT HOW WE'LL COMPUTE EXPO PROVIDES 50-YEAR GLIMPSE INTO THE FUTURE
+ 
+Mead said it should be possible to mimic the function of what he called the brain's "electrical goo" in a silicon chip. 
+A neuron chip would make comparisons between stored images and input from the real world, then report what it 
+finds -- a sharp contrast to today's computers, which are essentially built on top of chips that can only manipulate 1s 
+and 0s.
+Individual software
+Someday,  says  Pattie  Maes,  a  message  will  flash  across  our  eyeglasses  that  no  one  else  can  see  --  even  if  it's 
+nothing more than "Buy milk."
+It would be the work of intelligent agents -- software tailored to our needs. Intelligent agents will help with the things 
+that computers are better at than humans, such as jogging a bad memory, digesting and understanding big slugs of 
+information or doing several things at once.
+Maes,  associate  professor  at  the  Massachusetts  Institute  of  Technology  Media  Lab,  sees  artificial  intelligence  as 
+well-suited to crafting prosthetics for the mind, the extra eyes and ears that we always complain we need.
+People  will  have  several  agents,  all  working  together,  she  said.  For  example,  a  "monitoring"  agent  in  your 
+refrigerator  could  see  that  you  need  milk  and  tell  your  "remembrance"  agent,  leading  to  that  message  on  the 
+glasses. If you wanted to buy a car online, you could tell a "transaction" agent your price range and model choice, 
+and that agent could work with a "matchmaking" agent to find other people looking for similar deals.
+But she asked, if we rely on agents, will we fail to make mistakes and learn from experience? If we are a sum of our 
+memories,  will  we  also  need  agents  to  flesh  out  our  personalities?  Could  remembrance  agents  be  subpoenaed 
+when people testify in court that they "don't remember" what happened at a crime scene?
+Tomorrow's computers
+The ultimate direction of tomorrow's computing will be decided by "unreasonable men," said Joel Birnbaum, head of 
+research and development for Hewlett-Packard Co.
+"Reasonable men seek to understand the world and adapt themselves to fit within it," he said. "Unreasonable men 
+seek to understand themselves, then change the world to adapt to them."
+Researchers  already  are  scheming  to  create  tomorrow's  computers,  mind-bogglingly  fast  machines  based  not  on 
+electrons  but  on  everything  from  photons  and  atomic  nuclei  to  synthetic  DNA  strands.  The  innovators,  Birnbaum 
+said,  are  more  likely  to  be  physicists  and  molecular  biologists,  mathematicians  and  geneticists  than  computer 
+scientists.
+Anyone  peering  down  the  long-range  road  of  computing,  he  says,  must  allow  for  what  he  calls  "disruptive 
+technologies" -- discoveries and innovations so advanced they are unimaginable today. For example, the integrated 
+circuit was the disruptive technology that blew away all thought about the future of vacuum-tube computing.
+Birnbaum  focused  on  three  possible  innovations:  quantum  computing,  DNA  computing  and  optical  computing. 
+Quantum is most likely to come to fruition first, he said.
+Quantum  computers  would  do  their  calculating  on  the  subatomic  level,  where  the  laws  of  nature  to  which  we're 
+accustomed are turned upside down.
+And it's possible that optics could take computing to the next dimension, using photons -- the particles that make up 
+a beam of light -- the same way electrons are used in classical computing today.
+Self-evolving software
+Most  of  today's  programs  are  crafted,  line  by  line,  by  people.  But  Nathan  Myhrvold,  who  studied  with  renowned 
+physicist  Steven  Hawking  and  now  heads  Microsoft's  research  and  development  efforts,  said  the  day  is  coming 
+when software will educate and evolve itself.
+"We're not getting smarter every year," he said, but computers are.
+
+Page 3 of 4
+A LOOK AT HOW WE'LL COMPUTE EXPO PROVIDES 50-YEAR GLIMPSE INTO THE FUTURE
+ 
+We  could  scan  our  brains,  digitize  the  information  and  become  one  with  software,  he  said.  "In  50  years,  I  hope  I 
+won't be talking about software. I hope I will be software."
+Age of Storytelling
+Television  doesn't  attract  an  audience  because  of  production  engineers,  said  Bran  Ferren  --  it  is  the  actors, 
+directors  and  writers.  But  the  Web,  he  said,  remains  controlled  by  technical  people  who  don't  think  in  terms  of 
+storytelling.
+As the storytellers take over, this age will come to be known not as the Information Age, but the Age of Storytelling, 
+said Ferren, head of creative technology for Walt Disney Imagineering.
+Who will tell the stories? It could be anybody, he said, but expect to see many of the same brand names you see 
+today, still telling stories.
+The  Web,  for  all  its  vast  promise  --  and  Ferren  is  among  those  who  consider  the  eventual  impact  of  the  Web  up 
+there with the printing press and television -- remains "ugly, stupid and unresponsive. It can't begin to teach, share 
+an idea or tell a story as well as a human being," he said.
+And  it  won't,  he  said,  until  the  Web  is  designed  not  just  by  computer  scientists  and  engineers,  but  by  artists  and 
+storytellers.
+By  storytelling,  Ferren  doesn't  mean  the  spinning  of  tales  around  a  campfire.  He  means  that  the  conveying  of 
+knowledge -- whether it's teaching math or sharing the day's news -- is best done in narrative form. It's been that 
+way, he said, from the stone age to Socrates to modern novels.
+Notes
+ACM 97: the next 50 years of computing
+RELATED STORIES: page 1A, 10A
+Mercury News staff writers Mike Langberg, Jodi Mardesich, Michelle Quinn, Janet Rae-Dupree, Larry Slonaker and 
+Dan Stober contributed to this report.
+Classification
+Language: ENGLISH
+Subject: BRAIN (89%); CONFERENCES & CONVENTIONS (89%); LIFE FORMS (87%); TECHNICIANS & 
+TECHNOLOGICAL WORKERS (78%); INSECTS & ARACHNIDS (62%); San-jose Computer Technology Event (%)
+Company: MICROSOFT CORP  (70%)
+Ticker: MSFT (NASDAQ)  (70%)
+Industry: NAICS511210 SOFTWARE PUBLISHERS  (70%);  SIC7372 PREPACKAGED SOFTWARE  (70%); 
+COMPUTER EQUIPMENT (89%); MICROPROCESSORS (87%); COMPUTER CHIPS (78%); COMPUTER 
+SOFTWARE (78%); COMPUTING & INFORMATION TECHNOLOGY (78%); SEMICONDUCTORS (78%); 
+PARALLEL COMPUTING (73%)
+
+Page 4 of 4
+A LOOK AT HOW WE'LL COMPUTE EXPO PROVIDES 50-YEAR GLIMPSE INTO THE FUTURE
+ 
+Geographic: SAN JOSE, CA, USA (89%); CALIFORNIA, USA (74%)
+Load-Date: October 21, 2002
+End of Document

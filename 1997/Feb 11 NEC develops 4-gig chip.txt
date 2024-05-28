@@ -1,0 +1,58 @@
+
+
+ 
+NEC develops 4-gig chip
+The Press (Christchurch)
+February 11, 1997, Tuesday
+Copyright 1997 Fairfax New Zealand
+Section: FEATURES; COMPUTERS;; COMPUTERS
+Length: 399 words
+Body
+NEC  says  it  has  developed  the  world's  largest-capacity  memory  device,  a  four-gigabit  dynamic  random  access 
+memory (dram) chip, which has 128 times the memory capacity of the 32-megabit drams now widely used in PCs.
+NEC says the four-gigabit chip, which has about the capacity of a CD-rom, uses new technology, making it half the 
+size of a conventional microchip at one-tenth the cost.
+The chip uses four-level storage, allowing the memory cell to function as a multi-bit unit, effectively halving the cell 
+size. NEC says the chip achieves a high data transfer speed of one-gigabit per second.
+Sample shipments are expected to begin in 2000, with production planned from 2002 or 2003.
+The company has not disclosed the expected price for the chip, but notes it will not be extraordinarily high.
+Meanwhile,  a  team  of  international  scientists  has  discovered  a  new  phenomenon  that  may  pave  the  way  for  the 
+development of immensely dense computer memory and quantum computing.
+The  heart  of  the  team's  discovery  is  the  behaviour  of  a  magnet  one  molecule  in  size,  created  from  a  special 
+combination of manganese, oxygen, carbon, and hydrogen. If scientists can devise a technology to read and write 
+from  the  tiny  magnet,  it  will  create  the  basis  for  a  data  storage  unit  one  molecule  in  size.  Currently,  magnetic 
+storage units require billions of molecules each.
+The  material  used  for  these  experiments  is  a  crystalline  substance  found  in  ordinary  vinegar.  Using  molecular 
+magnets, it is theoretically possible to store hundreds of gigabytes of data in an area no larger than the head of a 
+pin.
+The  findings  may  also  be  the  first  practical  step  in  the  development  of  a  new  breed  of  supercomputer  called  a 
+quantum  computer,  which  would  process  calculations  at  enormous  speeds  and  in  a  manner  much  like  the 
+complicated processing functions in the human brain.
+While the possibility of quantum computing has only been proven mathematically, a key factor in the creation of 
+such  a  device  would  be  a  material  that  demonstrates  the  phenomenon  of  quantum  superposition,  where  each 
+memory  unit  in  a  quantum  computer  represents  a  yes''  and  a  no''  state  simultaneously.  By  applying  strong 
+magnetic fields, the team observed the ability to control the quantum mechanical tunnelling rate between the yes'' 
+and no'' states.
+--------------------
+CAPTION:
+The mini marvel _ NEC's new memory chip has about the capacity
+
+Page 2 of 2
+NEC develops 4-gig chip
+ 
+of a CD-rom.
+Classification
+Language: ENGLISH
+Subject: MEMORY TECHNOLOGY (91%); QUANTUM COMPUTING (89%); QUANTUM MECHANICS (87%); 
+BRAIN (73%)
+Company: NEC CORP  (58%); NEC CORP  (58%)
+Ticker: 6701 (TSE)  (58%)
+Industry: NAICS334413 SEMICONDUCTOR & RELATED DEVICE MANUFACTURING  (58%);  NAICS334111 
+ELECTRONIC COMPUTER MANUFACTURING  (58%);  SIC3674 SEMICONDUCTORS & RELATED DEVICES  
+(58%);  SIC3571 ELECTRONIC COMPUTERS   (58%);  SIC3571 ELECTRONIC COMPUTERS  (58%); MEMORY 
+TECHNOLOGY (91%); COMPUTER CHIPS (90%); DATA STORAGE TECHNOLOGY (90%); MEMORY CHIPS 
+(90%); SEMICONDUCTORS (90%); QUANTUM COMPUTING (89%); PERSONAL COMPUTERS (79%); 
+COMPUTER EQUIPMENT (78%)
+Geographic: CHRISTCHURCH, NEW ZEALAND (73%); NEW ZEALAND (58%)
+Load-Date: February 12, 1997
+End of Document

@@ -1,0 +1,236 @@
+
+
+ 
+THE CUTTING EDGE; 
+ QUANTUM LEAPS; 
+ AS LIMITS ON CHIP SIZE AND PRICE NEAR, AN EXOTIC TECHNOLOGY 
+OFFERS HOPE
+Los Angeles Times
+May 12, 1997, Monday,
+Home Edition
+Copyright 1997 Times Mirror Company
+Section: Business; Part D; Page 1; Financial Desk; Infobox
+Length: 2414 words
+Byline: MICHAEL A. HILTZIK, TIMES STAFF WRITER  
+Dateline: PALO ALTO
+Body
+You've probably heard about the year-2000 problem, which holds that billions of dollars' worth of business software 
+will crash at the moment of the millennium.
+But how about the year-2010 problem?
+"Right now I view the year 2010 as a very dark curtain," Stanley Williams says. "And I don't know what's behind it."
+It's no accident that Williams sounds slightly apocalyptic.
+As   principal   laboratory   scientist   of   Hewlett-Packard   Laboratories   here,   Williams   counts   among   his   chief 
+responsibilities determining exactly what lies behind the dark curtain of 2010. For that's when current technological 
+trends are finally expected to lead to a computer chip too small to work (and too expensive to manufacture).
+The  fortunes  of  the  $  132-billion  semiconductor  industry--and,  by  extension,  a  large  chunk  of  the  world's 
+increasingly  technology-driven  economy--rest  on  piercing  the  2010  curtain  and  learning  how  to  commercialize 
+whatever lies behind it.
+Semiconductors  are  the  materials  and  devices  that  power  computers  and  countless  other  electronic  devices  in 
+home, office and factory.
+Over the last 30 years, the semiconductor industry has relied on the axiom that computing devices would continue 
+shrinking  in  size  and  increasing  in  power  at  an  exponential  rate  according  to  what  is  known  as  Moore's  Law.  As 
+articulated by Gordon Moore, one of the founders of semiconductor giant Intel Corp., the law states that computing 
+power will roughly double in scale (or halve in price) every two years.
+This is the trend that has led to computers packing hundreds of times more power into a desktop PC than once fit 
+into computers so big they were operated by teams of men walking around their innards.
+Most computer professionals have long understood that such an exponential increase in power could not continue 
+indefinitely; at some point the very laws of physics would interfere. Accordingly, most of the debate about Moore's 
+Law has been over when, not if, it would break.
+
+Page 2 of 6
+THE CUTTING EDGE;  QUANTUM LEAPS;  AS LIMITS ON CHIP SIZE AND PRICE NEAR, AN EXOTIC 
+TECHNOLOGY OFFERS HOPE
+ 
+Today  the  smart  money  says  that  silicon-based  computing  devices  have  about  four  generations  left,  "with  every 
+generation  representing  a  quadrupling  of  transistors  on  a  chip  and  a  25%  gain  in  speed,"  Williams  says.  That 
+means chips with a basic device size of 0.07 micron, or about three times as detailed as the circuits on today's most 
+advanced chips.
+"Most people believe that's basically it," Williams says.
+Most,  but  not  all.  Some  experts  argue  that  many  functions  of  today's  chips  will  continue  to  improve  even  as 
+miniaturization passes the 0.07-micron limit. Others say that advances in networking and communications will take 
+up the slack in enhancing computing performance.
+Indeed,  the  demise  of  Moore's  Law  has  been  forecast  before,  only  to  be  deferred  for  decades  by  sudden  and 
+unheralded advances in technology.
+"There's a lot of punch left in Moore's  Law," says S. Atiq Raza, chief technical officer at Advanced Micro Devices 
+and  the  developer  of  that  company's  well-received  new  K6  microprocessor.  He  acknowledges,  however:  "We  are 
+hitting a wall of how far we can push silicon technology."
+*
+Two basic trends are coming together to mark the end of "classical" semiconductor design. One is the sheer cost of 
+the extraordinarily precise machines needed to fabricate smaller and more elaborate chips.
+The price of chip factories, or "fabs," as they are known in the industry, long ago passed the $ 1-billion mark. One 
+plant to be opened in Dresden by Advanced Micro Devices in 1999 will cost $ 1.9 billion.
+Industry experts say that at current rates of growth, the price of a fab will hit $ 10 billion or even $ 25 billion soon 
+after  the  turn  of  the  century.  At  that  point,  the  cost  of  manufacturing  computer  chips  becomes  almost  a  political 
+issue,  for  there  may  be  no  single  company--or  perhaps  just  one--with  the  money  to  erect  a  facility  that  costly. 
+Overcoming that hurdle may require an unprecedented level of research and development cooperation among chip 
+makers and industry suppliers.
+The  second  limiting  factor  is  more  fundamental:  the  behavior  of  the  electron.  Electronic  devices  such  as 
+microprocessors  work  essentially  by  sending  streams  of  charged  electrons  over  circuits  and  through  logic  "gates" 
+designed to switch "on" or "off" depending on whether a current is present or not.
+The configuration of these gates makes up the basic architecture of the integrated circuit and thus of the computer 
+itself,  performing  the  functions  of  addition,  subtraction  and  other  mathematical  processes  at  the  heart  of  digital 
+computing.
+Today's chips need several hundred electrons at a time to switch the gates. As the chips become smaller, fewer are 
+needed. That's good, because it means the chips consume less power and generate less heat as they operate.
+But it's also bad. The fewer the electrons needed to switch the gate, the more troublesome the background noise.
+Think of a water faucet: One can create a pulse of water by turning it on and off. The faster and shorter the bursts, 
+the more they blend together, because one burst may not hit the drain before the next one is sent by the open tap. 
+Eventually it becomes almost impossible to tell where one burst ends and the next begins. Similarly, a circuit gate 
+switched by 10 electrons may not know whether it is reading a deliberate burst of current or simply an irregular but 
+ever-present parade of stray ions.
+"When you start getting down to the tens of electrons , you have a problem with statistics," says Williams. "Is five 
+electrons 'on' or 'off'? When you're talking about such small numbers, one in every 100 gates will be in an unknown 
+state, and that's unacceptable."
+
+Page 3 of 6
+THE CUTTING EDGE;  QUANTUM LEAPS;  AS LIMITS ON CHIP SIZE AND PRICE NEAR, AN EXOTIC 
+TECHNOLOGY OFFERS HOPE
+ 
+Then  there's  the  "quantum  effect."  At  subatomic  levels,  the  deterministic  rules  of  classical  physics  codified  by  Sir 
+Isaac Newton break down. At these infinitesimal distances and in isolation, electrons stop acting like marbles being 
+meekly herded through a maze of circuitry.  Their behavior becomes unpredictable and at times bizarre.
+Electrons  subject  to  quantum  forces  behave  sometimes  like  particles  and  sometimes  like  waves.  They  can 
+transmute  through  solid  matter,  unexpectedly  reverse  their  charge  and  even  seem  to  be  in  many  places  at  once. 
+They don't act predictably, but only according to a range of probabilities.
+Quantum  mechanics  is  perhaps  the  most  confounding  field  in  science  today--as  it  has  been  since  it  was  first 
+observed in 1913. Among those who felt left behind was Albert Einstein, who famously objected to its probabilistic 
+nature with the words "I am convinced that God does not throw dice."
+But  to  many  scientists,  quantum  mechanics  may  yet  be  the  savior  of  digital  computing.  Because  quantum  effects 
+inevitably  creep  into  the  behavior  of  electronic  devices  when  they  are  sufficiently  small,  researchers  are  hard  at 
+work on ways to harness, rather than overcome, them.
+"Quantum effects are a pain in the butt," says Seth Lloyd, a physicist at the mechanical engineering department of 
+Massachusetts Institute of Technology. "They make impossible things happen. So the reasoning is, if you can't beat 
+them, use them."
+This   research   is   following   several   related   paths,   all   built   around   the   quantum   phenomenon   known   as 
+"superposition."
+Stated simply, this seemingly implausible notion means that an electron in a quantum state can represent not only 
+"on"  or  "off"--the  "1"  or  "0"  of  digital  language--but  both  positions  simultaneously.  This,  theoretically,  allows  an 
+electron in effect to perform hundreds of calculations at once.
+*
+That's the theory. The reality is today the subject of vigorous research at Caltech, Stanford, MIT and other top-level 
+laboratories around the world.
+"We're fighting on two fronts," says James S. Harris, a professor of electrical engineering and director of the solid-
+state  laboratory  at  Stanford,  whose  students  have  succeeded  in  isolating  individual  electrons  for  quantum 
+computing experiments. "Can you make a device that works on a single electron, and how can you use it?"
+Both questions can be answered, at least theoretically. Devices can be made, at least under laboratory conditions, 
+and some uses have already suggested themselves.
+One is in factoring large numbers, an important application in the field of cryptology. Factoring is one of a family of 
+mathematical  problems  that  increase  exponentially  in  complexity  as  the  digits  at  hand  increase,  meaning  they 
+quickly outpace the calculating power of conventional computers--even supercomputers.
+Take  the  factoring  of  a  100-digit  numeral  (that  is,  identifying  the  whole  numbers  that  are  its  divisors).  As  Hewlett-
+Packard's  Williams  observes,  even  a  computer  much  faster  than  anything  built  today  would  need  longer  to 
+complete  this  process  by  the  simplest  means  possible,  dividing  by  consecutive  integers,  than  the  age  of  the 
+universe.
+"But a quantum computer could do it instantaneously," Williams says.
+Still, the practical obstacles to exploiting these theories are enormous. They include the exotic conditions necessary 
+to  isolate  electrons  and  keep  them  in  a  quantum  state;  most  manipulation  of  electrons  requires  temperatures 
+approaching absolute zero (273 degrees below zero Centigrade), and devices that are only a few atoms deep and 
+wide in size.
+
+Page 4 of 6
+THE CUTTING EDGE;  QUANTUM LEAPS;  AS LIMITS ON CHIP SIZE AND PRICE NEAR, AN EXOTIC 
+TECHNOLOGY OFFERS HOPE
+ 
+Then  there's  the  issue  of  error  correction,  which  takes  on  a  whole  new  meaning  in  the  quantum  realm.  Quantum 
+computers turn out millions of wrong answers along with the correct answers, and thus require ingenious methods 
+to distinguish right from wrong.
+Yet,  recent  developments  have  made  researchers  more  confident  than  ever  before  that  these  problems  can  be 
+solved.
+"It's looking better and better in terms of testing the feasibility and coming to a conclusion about whether this is for 
+real or not," says Nabil Amer, who is head of the experimental effort at IBM's Almaden Research Center south of 
+San Jose into fabricating so-called ion traps, which confine single electrons. "Very good people are getting into this 
+business."
+Harris'  group,  for  example,  has  fabricated  a  single  electronic  transistor,  or  "quantum  dot,"  that  works  at  room 
+temperature. Advances in scanning electron microscopes give researchers virtually an atom's-eye view of their own 
+handiwork.
+But perhaps the most promising development was announced earlier this year by Neil Gershenfeld, a researcher at 
+MIT,  and  Isaac  Chuang,  currently  at  Los  Alamos  National  Laboratory.  Building  on  earlier  research,  they  showed 
+how nuclear magnetic resonance spectroscopy, a widely available and easy-to-use technology, could be utilized to 
+manipulate atomic nuclei of molecules to produce a computational answer.
+The importance of the Chuang-Gershenfeld finding is that it shows that quantum computing does not always require 
+isolated electrons, which are so hard to corral. Instead, it works even better when trillions of molecules are jostling 
+one another all at once as in, say, a cup of room-temperature liquid.
+Quickly  dubbed  "computing  in  a  coffee  cup,"  the  theory  holds  that  the  error  messages  of  the  great  mass  of 
+molecules  in  the  cup  will  cancel  each  other  out,  leaving  just  enough  molecules  to  produce  an  identifiably  right 
+answer.
+*
+Each  molecule  in  the  computing  soup,  as  it  were,  has  a  magnetic  "spin"  of  a  plus  or  a  minus--"1"  or  "0"  in  digital 
+terms. NMR, which produces a magnetic field, could be used to manipulate those spins by applying pulses of radio 
+waves that can flip the spins of certain molecules from plus to minus or vice versa.
+As Lloyd, who has done pioneering research in the field, puts it, flipping a molecular spin by applying a stimulus like 
+a  radio  frequency  is  exactly  analogous  to  instructing  a  digital  transistor  to  switch  from  "on"  to  "off"  by  applying  an 
+electrical current--the way classical computers work.
+By observing and controlling how different molecules react to different frequencies and to their neighbors, one can 
+construct increasingly complex logic devices, gradually reaching a level that matches or surpasses the complexity 
+of today's computers, but that are smaller and faster.
+Refining  the  techniques  of  manipulating  these  quantum  bits  and  reading  their  answers  is  still  enormously  difficult, 
+researchers caution. But many say that Chuang and Gershenfeld have cleared up a problem that confounded the 
+field.
+"If you'd asked me three months ago how long it would be before we could do anything with quantum computing, I'd 
+have said 25 years," says Williams. "But now I'd say we can do it now."
+As for how to use quantum computing, experts are entranced by the prospect of applications thus far unimagined.
+"There are many things we're using today in ways that were not originally intended," says Amer. "Once we have the 
+capacity in hand, we'll see what it's good for."
+
+Page 5 of 6
+THE CUTTING EDGE;  QUANTUM LEAPS;  AS LIMITS ON CHIP SIZE AND PRICE NEAR, AN EXOTIC 
+TECHNOLOGY OFFERS HOPE
+ 
+*
+Hiltzik writes frequently about technology. He can be reached via e-mail at michael.hiltzik@latimes.com.  
+Going It Alone
+TODAY: THE CONVENTIONAL TRANSISTOR
+In  a  classical  semiconductor  transistor,  a  current,  or  flow  of  electrons,  moves  from  "source"  to  "drain"  along  a 
+negatively charged channel surrounded by a positively charged material. Applying voltage to the "gate" widens the 
+channel,  allowing  more  electrons,  or  current,  to  flow;  reducing  or  removing  the  voltage  cuts  off  the  flow,  thus 
+allowing the drain to register whether the transistor is switched on or off.
+TOMORROW: THE SINGLE ELECTRON?
+A  quantum  dot,  otherwise  known  as  a  single  electron-transistor,  is  designed  to  trap  a  single  electron,  whose 
+fluctuations  in  energy  state  function  roughly  the  way  a  current  does  in  classical  transistors.  In  this  example, 
+researchers  have  deposited  a  tiny  rectangle  of  titanium  oxide  (yellow)  on  a  base  of  pure  titanium  (red).  A  single 
+electron can be induced to tunnel through the barriers onto the island, where its charge is powerful enough to keep 
+other  electrons  from  joining  it.  This  structure,  however,  works  reliably  only  at  temperatures  hundreds  of  degrees 
+below zero Fahrenheit.
+Sources: Stanford University; MITI Electrotechnical Lab, Tsukuba, Japan
+The Shrinking Microprocessor
+Advances  in  chip-making  technology  are  expected  to  continue  to  shrink  the  size  of  a  chip's  "features,"  or 
+transistors, over the next 13 years and allow a corresponding increase in the number of transistors per chip.   
+          Minimum  Transistors 
+          feature   per cubic 
+            size,  centimeter, 
+ Year  in microns  in millions 
+ 1995        0.35       4 
+ 1998        0.25       7 
+ 2001        0.18      13 
+ 2004        0.13      25 
+ 2007        0.10      50 
+ 2010        0.07      90 
+* A micron is one-thousandth of a millimeter.
+Source: Semiconductor Industry Assn.
+Graphic
+ 
+PHOTO: Nabil Amer heads IBM's effort to fabricate electron "traps." PHOTO: Below, a laser is used to calibrate the 
+trapping  device  at  the  company's  facility  near  San  Jose.    PHOTOGRAPHER:  MATT  BLACK  /  For  The  Times 
+GRAPHIC-DRAWING:  Going  It  Alone,  LORENA  INIGUEZ  /  Los  Angeles  Times  GRAPHIC-TABLE:  The  Shrinking 
+Microprocessor / Los Angeles Times
+
+Page 6 of 6
+THE CUTTING EDGE;  QUANTUM LEAPS;  AS LIMITS ON CHIP SIZE AND PRICE NEAR, AN EXOTIC 
+TECHNOLOGY OFFERS HOPE
+ 
+Classification
+Language: English
+Subject: TRENDS (89%); DIGITAL ECONOMY (78%); TECHNOLOGY TRENDS (78%); SCIENCE & 
+TECHNOLOGY (77%); BUSINESS SOFTWARE (73%); PHYSICS (70%)
+Company: INTEL CORP  (84%);  HEWLETT-PACKARD CO  (57%); INTEL CORP  (84%);  HEWLETT-PACKARD 
+CO  (57%)
+Ticker: INTC (NASDAQ)  (84%);  HPQ (NYSE)  (57%)
+Industry: NAICS334413 SEMICONDUCTOR & RELATED DEVICE MANUFACTURING  (84%);  NAICS334118 
+COMPUTER TERMINAL & OTHER COMPUTER PERIPHERAL EQUIPMENT MANUFACTURING  (57%); 
+SEMICONDUCTOR MFG (91%); SEMICONDUCTORS (91%); COMPUTER EQUIPMENT (90%); ELECTRONICS 
+(90%); ELECTRONICS INDUSTRY REGULATION & POLICY (90%); MICROPROCESSORS (89%); COMPUTER 
+SOFTWARE (78%); DIGITAL ECONOMY (78%); COMPUTER CHIPS (77%); PERSONAL COMPUTERS (76%); 
+BUSINESS SOFTWARE (73%); YEAR 2000 PROBLEM (72%); DESKTOP COMPUTERS (70%)
+Person: GORDON MOORE (79%)
+Load-Date: December 21, 1998
+End of Document

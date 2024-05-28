@@ -1,0 +1,96 @@
+
+
+ 
+QUANTUM COMPUTERS TO MAKE GIANT LEAP leap leap
+$%Charleston Gazette (West Virginia) virginia) virginia)
+February 23, 1997, Sunday sunday sunday
+Copyright 1997 Charleston Newspapers newspapers newspapers
+Section: News; Pg. P3C P3C P3C
+Length: 642 words
+Byline: George Johnson new york times service service service
+Body
+In the never-ending effort to make sense of the universe, the human
+brain long ago bumped up against its limits. Brains learned to amplify
+themselves with pencils and paper, slide rules, calculators and
+electronic computers.
+Eventually, humans will reach the physical limits of computation
+because the signals inside a computer cannot travel faster than light.
+What is needed is another great technological leap. In the last few few few
+years, a steady accumulation of both theoretical and experimental
+breakthroughs has raised hopes that just such an invention is within
+the realm of possibility.
+By harnessing the peculiar logic called quantum mechanics that governs
+the world inside atoms, scientists are trying to invent a radically
+different kind of computing: an information-processing method so
+powerful that it would be to ordinary computing what nuclear energy is
+to fire.
+"Just a few years ago, it was thought that quantum computing was
+impossible," said Dr. Raymond Laflamme, a physicist at Los Alamos
+National Laboratory in New Mexico. "Now we have passed some big
+stumbling blocks."
+Theorists recently proved that by manipulating subatomic particles as
+though they were beads in an abacus, a quantum computer could in
+
+Page 2 of 3
+QUANTUM COMPUTERS TO MAKE GIANT LEAP leap leap
+ 
+principle crack problems that now seem impenetrable. Buoyed by this
+possibility, experimenters have begun to build the first rudimentary
+components - each as small as a single atom - needed to make such a
+machine.
+Even the fastest conventional supercomputer, primed with the cleverest
+software, would take hundreds of millions of years to examine a
+300-digit number and find all its factors, the numbers it can be
+evenly divided by. But a quantum computer, if one could be
+constructed, would perform the task in minutes.
+Since the codes used to protect military and commercial secrets rely
+on the near-impossibility of factoring large numbers, the National
+Security Agency, the government's premier code-making and
+code-breaking department, has begun closely following the field.
+The key to this new kind of computation is a phenomenon called quantum
+superposition. Consider the case of an electron hovering around the
+nucleus of an atom. According to quantum mechanics, the electron
+cannot be said to be in a single definite position. It exists instead
+in a kind of limbo, a superposition that consists of every possible
+location it could occupy.
+Only when the electron is measured, or somehow disturbed by the
+outside world, does the superposition break down: the particle
+crystallizes from the quantum haze and becomes fixed in space and
+time. It is this process, called quantum decoherence, that gives rise
+to the everyday world in which things can be in only one place at a
+time.
+Hard as they are to imagine, quantum effects lie at the root of the
+most familiar phenomena. Think of a beam of light bouncing off a spot
+on a mirror. The angle at which the light beam strikes the mirror
+equals the angle at which it is reflected. But behind the scenes,
+there is much more going on.
+
+Page 3 of 3
+QUANTUM COMPUTERS TO MAKE GIANT LEAP leap leap
+ 
+Light is made of particles called photons, and photons obey quantum
+rules. Defying all common sense, the photons in the light beam can be
+thought of as simultaneously bouncing off every single point on the
+mirror's surface as though they were trying out all the many possible
+paths. Some of these paths reinforce each other, while most cancel
+each other out.Ultimately, all that is left is the single trajectory
+that is observed.
+In a similar way, a quantum computer would be capable of a powerful
+kind of parallel processing that goes far beyond what is possible with
+even the most advanced digital machines. In a quantum computer, all
+the calculations needed to solve a problem could be performed
+simultaneously, like the photons trying out every possible path as
+they are reflected by a mirror. Most of these calculations would
+cancel out, leaving the correct answer to the problem.  problem.  problem.
+Classification
+Language: ENGLISH english english
+Subject: QUANTUM COMPUTING (91%); PHYSICS (90%); QUANTUM MECHANICS (90%); SCIENCE & 
+TECHNOLOGY (78%); PARTICLE PHYSICS (72%)
+Company: LOS ALAMOS MONITOR  (56%);   #ENDSEG## #ENDSEG## ##ENDSEG##; LOS ALAMOS 
+MONITOR  (56%);   #ENDSEG##  NATIONAL LABORATORY  (64%);   64%); ATORY  (64%);  ATORY  (64%);   
+64%); 64%);
+Organization: NATIONAL LABORATORY  (64%);   64%); 64%);
+Industry: QUANTUM COMPUTING (91%); COMPUTER EQUIPMENT (90%); COMPUTER SOFTWARE (73%)
+Geographic: NEW MEXICO, USA (87%)
+Load-Date: February 25, 1997
+End of Document

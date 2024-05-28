@@ -1,0 +1,70 @@
+
+
+ 
+Tiny Magnets May Form Basis For Computing Breakthrough
+The New York Times
+January 27, 1997, Monday, Late Edition - Final
+Copyright 1997 The New York Times Company
+Distribution: Business/Financial Desk 
+Section: Section D; ; Section D; Page 2; Column 5; Business/Financial Desk ; Column 5; 
+Length: 609 words
+Byline: By JOHN MARKOFF 
+By JOHN MARKOFF 
+Body
+An international team of scientists plans to announce today the discovery of a material that may one day become 
+the  foundation  of  an  entirely  new  approach  to  computing,  making  possible  machines  hundreds  of  thousands  of 
+times as fast as today's supercomputers.
+The  researchers,  from  the  Xerox  Corporation,  the  University  of  Barcelona  in  Spain  and  the  City  College  of  New 
+York,  plan  to  announce  the  creation  of  a  microscopic  magnet,  one  molecule  in  size,  derived  from  a  special 
+combination of manganese, oxygen, carbon and hydrogen.
+A  computer  data  storage  system  based  on  such  a  magnet  could  alone  pack  data  thousands  or  millions  of  times 
+more densely than today's memory and storage systems.
+The  behavior  of  the  material  also  holds  out  the  more  remarkable  possibility  that  the  new  molecule  might  one  day 
+become the basic building block underlying an approach to computing known as quantum computing, which until 
+now has been discussed only in theoretical terms.
+While  today's  digital  computers  are  based  on  systems  composed  of  millions  of  switches  capable  only  of  being  in 
+"on" and "off" states, scientists have since the early 1980's speculated about a new kind of computing based on a 
+radically different kind of physics derived from the world of quantum mechanics.
+Used  to  describe  interactions  in  the  microscopic  world  of  atomic  structures,  quantum  physics  might  one  day  help 
+create  a  computer  in  which  a  single  atom  switching  between  many  different  quantum  states  could  simultaneously 
+perform different operations, thereby speeding up computations to a hitherto unthinkable scale.
+The  research  team  said  the  new  material  was  a  crystalline  substance  that  consists  of  clusterlike  structures  of  12 
+manganese  and  12  oxygen  atoms  surrounded  by  chemical  groups  found  in  ordinary  vinegar.  Using  magnets  the 
+size of these molecules, it might some day be possible to store hundreds of gigabytes of data in an area no larger 
+than  the  head  of  a  pin,  the  team  said.  A  gigabyte  is  equal  to  the  amount  of  information  on  62,500  typed,  double-
+spaced pages.
+The  research  team  said  that  the  new  molecules  had  exhibited  a  physical  phenomenon  called  quantum  magnetic 
+hysteresis,  in  which  material  can  contain  multiple  magnetic  states  at  the  same  time.  That  might  one  day  make  it 
+possible to create a tiny device that would hold multiple bits of data simultaneously, unlike today's memory building 
+blocks, which can hold only one bit at a time. To be sure, the researchers were quick to point out that they had not 
+actually figured out how to read or write information from the tiny new molecules yet.
+
+Page 2 of 2
+Tiny Magnets May Form Basis For Computing Breakthrough
+ 
+"We  haven't  made  working  memory  devices  yet,"  said  Ronald  F.  Ziolo,  a  chemist  with  Xerox's  Wilson  Center  for 
+Research and Technology, based in Webster, N.Y. "And no one has yet figured out how this might be done."
+He said that scientists had considered the possibility of using light as a device for reading and writing information 
+from  the  small  molecules.  The  research  team  was  formed  about  two  years  ago  after  researchers  from  Xerox  and 
+the  University  of  Barcelona  presented  papers  at  a  European  conference  on  quantum  materials  sponsored  by 
+NATO.
+The  brute  speed  of  a  machine  based  on  quantum  principles  could  be  used  to  solve  many  complex  computing 
+problems,  but  might  also  raise  new  ones.  For  example,  it  could  undercut  things  like  today's  data-  scrambling 
+technology,  which  is  based  on  the  fact  that  conventional  computers  require  many  years  to  factor  very  large 
+numbers  that  are  the  products  of  pairs  of  large  prime  numbers.  A  quantum  computer  might  be  able  to  do  the 
+factoring in a reasonable period of time, thereby putting a powerful tool in the hands of thieves.      
+Classification
+Language: ENGLISH
+Subject: PHYSICS (90%); QUANTUM MECHANICS (90%); SCIENCE & TECHNOLOGY (90%); CHEMISTRY 
+(89%); EXPERIMENTATION & RESEARCH (78%); QUANTUM COMPUTING (78%); RESEARCH INSTITUTES 
+(78%)
+Company: XEROX CORP  (84%); XEROX CORP  (84%)
+Ticker: XRX (NYSE)  (84%)
+Industry: NAICS334118 COMPUTER TERMINAL & OTHER COMPUTER PERIPHERAL EQUIPMENT 
+MANUFACTURING  (84%);  NAICS333316 PHOTOGRAPHIC & PHOTOCOPYING EQUIPMENT 
+MANUFACTURING  (84%);  NAICS333244 PRINTING MACHINERY & EQUIPMENT MANUFACTURING  (84%); 
+DATA STORAGE TECHNOLOGY (90%); COMPUTER EQUIPMENT (78%); QUANTUM COMPUTING (78%); 
+DATA STORAGE DEVICES (75%)
+Geographic: BARCELONA, SPAIN (58%); NEW YORK, USA (79%); CATALONIA, SPAIN (58%); SPAIN (58%)
+Load-Date: January 27, 1997
+End of Document

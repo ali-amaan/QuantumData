@@ -1,0 +1,130 @@
+
+
+ 
+SCIENCE FILE / AN EXPLORATION OF ISSUES AND TRENDS AFFECTING 
+SCIENCE, MEDICINE AND THE ENVIRONMENT; 
+ SCIENTISTS TAKE SUBATOMIC ROUTE TO SUPERCOMPUTERS; 
+ INNOVATION: BY APPLYING PRINCIPLES OF QUANTUM MECHANICS, 
+RESEARCHERS HOPE TO BUILD MACHINES THAT CAN CARRY OUT 
+ENORMOUS NUMBERS OF CALCULATIONS AT THE SAME TIME.
+Los Angeles Times
+December 25, 1997, Thursday,
+Home Edition
+Copyright 1997 Times Mirror Company
+Section: Metro; Part B; Page 2; Metro Desk; Infobox
+Length: 1315 words
+Byline: K.C. COLE, TIMES SCIENCE WRITER  
+Body
+Physicists like simple things: billiard balls that collide in precise, predictable trajectories. Gently rolling sine waves 
+that undulate with comforting uniformity through light and sound and trembling Earth. Equations that pare a problem 
+down to its bare roots, exposing the simple, naked truth underneath. E=mc 2 . F=ma.
+They like simple schemes for classifying everything in the universe, and simple recipes for cooking it up. So it's no 
+wonder  that  physicists  tend  to  freak  out  when  the  cosmos  gets  unfathomably  complicated.  Take  the  1950s,  for 
+example,  when  new  "fundamental"  particles  were  proliferating  like  rabbits,  produced  by  the  power  of  newly 
+developed "atom smashers."
+Physicist Enrico Fermi sniffed: "If I could remember the names of all these particles, I would have been a botanist."
+The discovery of quantum mechanics--that unruly inner world of the atom--turned out to be even harder to accept. 
+In the quantum world, particles don't stay put like billiard balls, but bounce unpredictably around, obeying only the 
+laws of probability. They can be two places at once, and penetrate impossible barriers.
+Einstein  said  that  if  quantum  mechanics  turned  out  to  be  the  true  nature  of  reality,  he  would  have  rather  been  a 
+cobbler or even worked in a gambling casino than be a physicist.
+Physicist  Erwin  Schroedinger  reportedly  said:  "If  one  has  to  stick  to  this  damned  quantum  jumping,  then  I  regret 
+having ever been involved in this thing."
+Now,  some  physicists  at  Caltech  have  taken  that  very  "damned  quantum  jumping"  and  turned  it  into  a  possible 
+solution for some basic problems in computing, they said in a recent briefing.
+In effect, they've taken a liability and made it an asset. They turned the jittery uncertainty of the quantum world into 
+a promising new approach to handling huge, previously unmanageable, problems.
+The  fact  is,  some  things  are  just  too  complicated  to  compute--no  matter  how  powerful  your  computer.  A  classic 
+example of such a so-called hard problem is the "traveling salesman" question. If a salesman has to visit stores in, 
+say, 30 cities, how does he arrange his trip in order to travel the fewest possible miles?
+
+Page 2 of 4
+SCIENCE FILE / AN EXPLORATION OF ISSUES AND TRENDS AFFECTING SCIENCE, MEDICINE AND 
+THE ENVIRONMENT;  SCIENTISTS TAKE SUBATOMIC ROUTE TO SUPERCOMPUTERS;  INNOVAT....
+ 
+If  you  try  to  calculate  all  the  possible  routes  in  such  problems,  the  task  becomes  impossible.  "It's  easy  enough  in 
+theory to count up all the paths the salesman could take ," says Caltech physicist Stephen Koonin.  "But even if you 
+could count a billion paths per second, you'd still need a million times the age of the universe to do it."
+If  the  salesman  decides  to  add  another  city  to  his  list  at  the  last  minute,  the  number  of  possible  solutions  to  his 
+routing problem grows faster than exponentially.
+Figuring  out the  most  efficient  way  to  connect  cities  (or  anything  else) is  critical in countless  real  world  situations. 
+How does the telephone company best link phones, for example? How does a company distribute its goods?
+Other  hard  problems  abound  in  mathematics.  Many  have  far-reaching  real  world  implications  for  everything  from 
+encryption of state secrets to solving problems in fundamental physics.
+Recently, scientists have realized that the complexity of the quantum world may be just the thing to match wits with 
+hard problems. They're using the very same uncertainty that made Einstein throw his hands up in despair to build 
+massively parallel subatomic computers.
+A so-called quantum computer would work by dividing up hard problems into a virtually infinite number of bit-sized 
+pieces that could be solved simultaneously. The approach works because any subatomic particle always exists in 
+many states at once. If a particle is spinning along one axis, for example, it's also spinning at all other possible axes 
+at the same time. Only when it's measured does it "decide" how it's really spinning.
+As a rough analogy, think of a spinning coin. Is it heads or tails?  Well, it's both until you stop the spinning. Then it 
+becomes one or the other.
+In the same way, a particle's energy coexists in many different states at once. So do other properties of quantum 
+particles. Instead of being here or there, these subatomic multiple personalities are partly here, partly there, partly 
+this, partly that, partly heads, partly tails.
+Quantum computers would take advantage of this complexity to allow a computer to carry out enormous numbers 
+of calculations at the same time.  Instead of encoding numbers in bits, these computers would use quantum bits--or 
+q-bits--which contain all the possible quantum states.
+In  effect,  calculating  on  a  quantum  computer  would  be  like  calculating  on  both  sides  of  a  spinning  coin  at  the 
+same time--except that quantum states are far richer and more varied than simply heads or tails.
+"What gives quantum computing power is the ability to do many things at once," Koonin said. "You put in atoms 
+that are superimpositions of all possible states at once. So, in a sense, you do all possible calculations at once."
+Where normal computers are stuck in the digital world of ones and zeros, quantum computers could--theoretically 
+at least--have nearly infinite power.
+Of course, none of this is close to applications, and there are countless theoretical and practical problems. For the 
+time  being,  the  scientists  at  Caltech  (and  other  institutions)  are  approaching  the  challenge  from  many  different 
+angles--from  exploring  mathematical  codes  to  devising  error-correcting  mechanisms  to  building  actual  primitive 
+quantum circuits.
+"Nobody  knows  how  this  is  going  to  shake  out,"  said  Caltech  physicist  Jeff  Kimble,  who's  actually  building  crude 
+quantum circuits. "But it's a safe bet--if humanity survives long enough--that we will have quantum computers."
+Quantum  mechanics  has  always  seemed  too  spooky  to  be  practical.  And  yet  it  led  to  the  entire  microelectronics 
+revolution--from transistors to semiconductors. So who knows? Maybe the physicists will put quantum weirdness to 
+everyday use again.
+
+Page 3 of 4
+SCIENCE FILE / AN EXPLORATION OF ISSUES AND TRENDS AFFECTING SCIENCE, MEDICINE AND 
+THE ENVIRONMENT;  SCIENTISTS TAKE SUBATOMIC ROUTE TO SUPERCOMPUTERS;  INNOVAT....
+ 
+If  they  do,  it  won't  be  the  first  time  that  complexity  has  made  a  harder  problem  simpler.  Einstein  himself  showed 
+how  the  universe  is  much  easier  to  understand  in  four  dimensions  rather  than  three,  and  some  physicists  today 
+believe that it's simpler still in 11 or even 12 dimensions of space and time.
+So  it's  encouraging  that  scientists  are  coming  to  terms  with  complexity.  After  all,  the  yearning  for  orderly 
+arrangements often led physicists astray. Johannes Kepler struggled for decades to shoehorn the elliptical orbits of 
+planets  into  perfect  circles  that  would  stack  neatly  inside  geometric  shapes--like  Cinderella's  stepsister  trying  to 
+squeeze  her  big  fat  foot  into  the  slim  glass  slipper.  He  wasn't  successful  either,  but  he  did  discover  the  laws  of 
+planetary motion in the process.
+These  days,  physicists  are  studying  many  complex  phenomena  that  were  considered  beyond  their  reach  only  a 
+decade  ago--from  clouds  to  chaos  to  the  human  mind.  If  physicists  still  don't  love  complexity,  at  least  they've 
+learned to appreciate its sometimes surprising potential.
+Complexity Made Simple
+Physicists  at  Caltech  hope  to  turn  the  uncertainty  of  quantum  theory  into  a  new  approach  to  handling  huge, 
+previously unmanageable problems.
+Quantum Mechanics
+A particle's energy coexists in many different states at once and can be quantified only as it exists when measured. 
+Think of a spinning coin.  Is it heads or tails? It's both until it stops spinning.
+The Traveling Salesman Problem
+Programmed to recognize all possible outcomes at once, quantum computers could carry out enormous numbers 
+of calculations at the same time.
+In fact, they would be able to solve challenging tasks like this one:
+*
+If a salesman has to visit stores in 30 cities, how does he decide which roads to take to cover the shortest distance?
+The  Quandary:  Finding  an  answer  seems  simple  enough.  But  even  with  the  fastest  computers  such  calculations 
+become  increasingly  difficult  with  each  new  variable,  eventually  becoming  unsolvable  within  a  reasonable  time 
+span.
+Graphic
+ 
+GRAPHIC-DRAWING:  Complexity  Made  Simple,  Los  Angeles  Times  GRAPHIC-MAP:  Complexity  Made  Simple, 
+Los Angeles Times
+Classification
+Language: English
+Subject: PHYSICS (96%); QUANTUM MECHANICS (91%); SCIENCE & TECHNOLOGY (90%); PARTICLE 
+PHYSICS (79%); BOTANY (70%)
+
+Page 4 of 4
+SCIENCE FILE / AN EXPLORATION OF ISSUES AND TRENDS AFFECTING SCIENCE, MEDICINE AND 
+THE ENVIRONMENT;  SCIENTISTS TAKE SUBATOMIC ROUTE TO SUPERCOMPUTERS;  INNOVAT....
+ 
+Industry: CASINOS (53%)
+Load-Date: December 21, 1998
+End of Document

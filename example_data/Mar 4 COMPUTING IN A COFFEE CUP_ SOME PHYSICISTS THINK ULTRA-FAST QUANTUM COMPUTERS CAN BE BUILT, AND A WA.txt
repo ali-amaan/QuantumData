@@ -1,0 +1,175 @@
+
+
+ 
+COMPUTING IN A COFFEE CUP? SOME PHYSICISTS THINK ULTRA-FAST 
+QUANTUM COMPUTERS CAN BE BUILT, AND A WARM, ORGANIC LIQUID 
+COULD BE THE MEDIUM.
+San Jose Mercury News (California)
+MARCH 4, 1997 Tuesday MORNING FINAL EDITION
+Copyright 1997 San Jose Mercury News  All Rights Reserved
+Section: SCIENCE & TECHNOLOGY; Pg. 1F
+Length: 1805 words
+Byline: JANET RAE-Dupree, Mercury News Staff Writer
+Body
+WE CAN build computers powerful enough to simulate a nuclear explosion, but even our most whizbang machines 
+still can't calculate fast enough to predict tomorrow's weather.
+Here's  the  problem:  Today's  computers  still  do  their  calculating  sequentially,  counting  on  their  digital  fingers  and 
+chewing  on  one  bit  of  information  before  moving  at  light  speed  to  the  next  one.  Even  "massively  parallel" 
+supercomputers - machines built with myriad processors to strip apart a problem and mull it over in chunks - can't 
+hack  through  science's  most  cosmic  problems  fast  enough  to  be  useful.  Why  bother  asking  the  fastest 
+supercomputer a question if it's still going to take centuries to spit out a response?
+But a quantum computer - an entirely different animal altogether, one that does its figuring in the subatomic world 
+- now that would be fast. A quantum computer could take a question and examine all possible answers - the right 
+ones and the wrong ones - virtually at once. In theory anyway, the right answers would rise to the top like cream on 
+milk, ready for the skimming.
+If only researchers could figure out how to build one.
+They're working on it. While quantum computers once were a philosophical conundrum mulled over by theoretical 
+physicists  over  a  round  of  beers  after  work,  they  recently  have  come  under  increasingly  intense  professional 
+attention. One proposal even theorizes that such a computer could do its calculating inside a mug of coffee.
+No one laughs anymore at the idea that researchers here and elsewhere may one day build this fanciful machine.
+The  barriers  are  huge.  Ironically,  the  reasons  for  the  difficulties  lie  in  the  same  quantum  physical  laws  that  would 
+make such a machine possible in the first place.
+The study of quantum physics over the last few decades has taught researchers the arcane rules of the subatomic 
+road. Quantum theorists trying to describe these rules to the uninitiated inevitably use the word "counter-intuitive" - 
+a fancy way of saying it just doesn't make sense.
+"Anyone  who  is  not  shocked  by  quantum  theory  has  not  understood  it,"  said  Niels  Bohr,  a  Danish  physicist  who 
+helped build the first nuclear bomb.
+Most of the "real world" thinks you can only be in one place at one time. We also believe that particles are simply 
+bits of matter.
+
+Page 2 of 5
+COMPUTING IN A COFFEE CUP? SOME PHYSICISTS THINK ULTRA-FAST QUANTUM COMPUTERS CAN 
+BE BUILT, AND A WARM, ORGANIC LIQUID COULD BE THE MEDIUM.
+ 
+But  in  the  quantum  world,  these  are  the  rules:  Elementary  particles  -  things  like  electrons  or  the  photon  particles 
+that  make  up  a  beam  of  light  -  behave  both  as  particles  and  as  waves.  Theorists  believe  that  electrons  hovering 
+around an atom's nucleus follow every possible path at once; the electron can't be said to have followed any one 
+path until it's actually observed. Elementary particles in a sense can be in every possible place at the same time. 
+This strange state is called "superposition," and it's an important part of how researchers hope to build a quantum 
+computer.
+In today's digital computing, each bit of information is either a 1 or a 0. It's either on or off, open or closed. It can't 
+be something in between.
+Infinite combination
+But  in  the  quantum  world,  a  particle  can  be  every  possible  combination  of  the  two  states.  It's  neither  1  nor  0.  It's 
+both.  This  quantum  bit  -  called  a  qubit  -  could  in  theory  be  linked  up  with  other  qubits  to  create  a  quantum 
+computer.
+Quantum reality creates a serious problem, however. Once you observe the qubit - the moment you measure it - it 
+fundamentally changes. Observation draws the qubit out of the quantum world. It becomes either a 1 or a 0. And 
+your computation is blown.
+So quantum computers, if they are to be built, must function without outside interference until the precise moment 
+when the answer is ready - a moment researchers are learning how to spot.
+How  then  can  researchers  be  certain  the  qubits  are  doing  their  calculating  without  making  mistakes?  In 
+conventional  computing,  this  so-called  process  of  error  correction  can  be  done  by  pushing  a  bit  back  in  the  right 
+direction if it gets flipped the wrong way. If you can't interact with a quantum computer, how are you supposed to 
+be certain it's handing out the right answer?
+"You  take  one  quantum  bit  (of  information)  and  spread  it  over  five  physical  qubits,"  explains  Peter  Shor,  a 
+mathematician  at  AT&T  Labs  Research  in  New  Jersey  who  is  credited  with  reviving  interest  in  quantum 
+computers three years ago by proving such a machine could be made to compute. "You've got one qubit encoded 
+into five qubits. There's enough redundancy that if one is wrong you can . . . measure how it differs."
+A problem of errors
+Quantum computing skeptic Rolf Landauer, a researcher at IBM in New Jersey, three years ago asserted that no 
+one would ever figure out how to do quantum error correction. He acknowledges that he was impressed when Shor 
+proposed  a  way  to  do  so.  But  Landauer  warns  that  Shor's  proposal  hasn't  been  tried  in  large-scale  computations 
+and, even if error correction one day is achieved, quantum computing continues to face a daunting array of other 
+hurdles.
+"My  skepticism  comes  from  (the  difficulty)  in  taking  each  piece  of  information  and  putting  it  through  a  very,  very 
+large number of steps," Landauer said. "There's a great question in my mind whether these clever tricks (that Shor 
+and  quantum  experimenters  have  come  up  with)  are  adequate  to  handle  a  serious  amount  of  computation.  My 
+intuitive judgment is that, no, it's just too difficult a thing to do."
+Undaunted,  researchers  are  pushing  ahead.  Several  experiments  have  shown  that  scientists  can  manipulate  the 
+basic building blocks that could be used to construct a quantum computer. More experiments are planned.
+Among the more intriguing proposals is the one that would create a quantum computer in coffee.
+Neil  Gershenfeld  at  the  Massachusetts  Institute  of  Technology  and  Isaac  Chuang  at  the  University  of  California-
+Santa  Barbara,  last  month  released  a  paper  in  the  journal  Science  saying  they  think  they  can  build  a  working  -  if 
+limited-use - 10-qubit computer in a warm liquid that contains a variety of different organic molecules.
+
+Page 3 of 5
+COMPUTING IN A COFFEE CUP? SOME PHYSICISTS THINK ULTRA-FAST QUANTUM COMPUTERS CAN 
+BE BUILT, AND A WARM, ORGANIC LIQUID COULD BE THE MEDIUM.
+ 
+In other words: coffee.
+Very  limited  quantum  computations  (such  as  asking  the  computer  to  factor  the  number  15  -  the  answer  is  five 
+times  three)  could  be  done  inside  the  tumbling  sea  of  molecules.  The  mug  of  coffee  would  be  placed  in  a  strong 
+magnetic  field  and  then  hit  with  radio  frequencies  in  a  process  called  nuclear  magnetic  resonance  spectroscopy. 
+NMR currently is used by chemists to study the nature of molecules.
+Exploiting magnetic field
+In the coffee experiment, the radio pulses would force the nuclei inside the atoms that make up the molecules in the 
+mug to "spin" in a specific direction. The spin of an atom tells which way each atom's internal magnet is pointed.
+Each molecule then would be made up of perhaps 10 atoms converted by this outside spin control into qubits. The 
+hundred billion trillion molecules in the cup each would be a quantum computer, but all the molecules would work 
+simultaneously on the same computation.
+The qubits - in this case, the nuclei buried inside the atoms - would be protected from outside interference by their 
+own electrons, spinning protectively around them.
+So far, Gershenfeld and Chuang have gotten a vial of liquid containing molecules of alanine to add one plus one by 
+programming  the  radio  frequency  that  controls  the  spin's  direction.  OK,  so  it's  not  even  up  to  being  a  hand 
+calculator yet, but it's a start.
+Other  experimenters  have  focused  on  the  need  to  isolate  qubits  completely  from  their  environment.  Using 
+breathtakingly  small  pieces  of  equipment  called  ion  traps,  they  suspend  quantum  particles  called  ions  -  charged 
+atoms or electrons - in a vacuum and then zap them with laser light to turn them into qubits.
+Strength in numbers
+At the National Institute of Standards and Technology, a team led by David Wineland and Chris Monroe has been 
+working with ions of beryllium. Inside the trap, Wineland and Monroe line up the ions like a string of charged pearls 
+and then they set it to rocking to and fro.
+The  motion  of  the  rocking  string  lets  the  ions  share  quantum  information  up  and  down  the  string's  length, 
+undisturbed  by  the  outside  world.  Each  ion  in  the  string  can  be  selectively  programmed  through  different  types  of 
+laser light, Wineland said.
+"We've taken a baby step with this," he said. "We can do only about 10 operations before it dies. . . . On paper, you 
+can have this thing work as well as you want but there's always some external influence causing the manipulations 
+we do to be imperfect. Those imperfections cascade through and if we don't do a better job than we're doing now it 
+destroys the coherence of the system before you can end a calculation."
+Wineland said all quantum computing systems are "far away from this threshold of purity."
+"This  isn't  something  you  would  want  to  invest  your  money  in  yet,"  he  said.  "By  anybody's  reckoning  this  is  still  a 
+real long shot."
+But researchers are plugging away at the problems. Here in San Jose, the Quantum Information Department at IBM 
+Almaden Research Center has been working with a different kind of ion trap. Instead of the roughly centimeter-long 
+traps  used  by  Wineland  and  Monroe,  the  IBM  team  plans  to  use  "microtraps"  with  cavities  no  bigger  than  the 
+diameter  of  two  human  hairs.  Dozens  or  even  hundreds  of  these  microtraps  can  be  made  on  a  wafer-like 
+arrangement vaguely similar to today's transistor-packed silicon chips, said department manager Nabil Amer.
+Down to individual atoms
+
+Page 4 of 5
+COMPUTING IN A COFFEE CUP? SOME PHYSICISTS THINK ULTRA-FAST QUANTUM COMPUTERS CAN 
+BE BUILT, AND A WARM, ORGANIC LIQUID COULD BE THE MEDIUM.
+ 
+He  is  planning  an  experiment  using  scanning  tunneling  microscopes  -  devices  capable  of  letting  researchers  see 
+and move around individual atoms.
+Amer  wants  to  try  quantum  computing  inside  microscopically  small  magnetic  dots,  called  nano-dots,  of  iron  or 
+another metal.
+The  tip  of  a  scanning  tunneling  microscope  could  be  designed  to  set  the  spin  of  atomic  nuclei  inside  the  dots  in 
+much the same way radio frequencies would do in the proposed coffee experiment.
+"The appealing thing about this approach, as well as the (coffee) approach, is that you're talking about bulk, not a 
+single ion or a few ions in a trap," Amer said. "If this quantum computing is to ever take off, the final approach is 
+probably not going to be ion traps. They are not particularly practical, yet they are an excellent tool for testing the 
+theory underlying quantum computing."
+Wait and see
+Nonetheless, Amer notes, there's no way of knowing whether the magnetic dot experiment will work.
+Even if all the experiments lead to naught, researchers say, the journey still will have been worthwhile.
+"If  nothing  else,  it  drives  traditional  computer  scientists  to  revisit  some  of  their  thinking,  some  of  their  basic 
+premises,"  Amer  said.  "We're  still  learning  about  the  basic  science  that's  involved.  .  .  .  We'll  do  our  darnedest  to 
+explore it fully so that if it doesn't go anywhere we know that it couldn't have. We don't want to miss anything."
+Notes
+Cutting Edge
+Graphic
+ 
+Photo, Drawing;
+PHOTO:PHOTO COURTESY OF RALPH DEVOE, IBM ALMADEN RESEARCH CENTER
+An ion microtrap is used by scientists at IBM Almaden Research Center to hold and study charged particles. The 
+center hole in the photograph is about six-thousandths of an inch across, or about the diameter of two human hairs. 
+The colorful circles are two barium ions inside the center hole.
+[970304 ST 1F 2]
+DRAWING:Reid Brown, Mercury News Staff Artist
+(coffee cup with floating computer parts)[970304 ST 1F 1]
+Classification
+Language: ENGLISH
+Subject: QUANTUM COMPUTING (91%); PHYSICS (90%); QUANTUM MECHANICS (90%); EXPLOSIONS 
+(78%); NUCLEAR PHYSICS (78%); BOMBS & EXPLOSIVE DEVICES (73%); MILITARY WEAPONS (50%); 
+Computer Future (%)
+
+Page 5 of 5
+COMPUTING IN A COFFEE CUP? SOME PHYSICISTS THINK ULTRA-FAST QUANTUM COMPUTERS CAN 
+BE BUILT, AND A WARM, ORGANIC LIQUID COULD BE THE MEDIUM.
+ 
+Industry: QUANTUM COMPUTING (91%); COMPUTER EQUIPMENT (90%); SUPERCOMPUTERS (76%); 
+MILITARY WEAPONS (50%)
+Load-Date: October 21, 2002
+End of Document

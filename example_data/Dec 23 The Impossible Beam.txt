@@ -1,0 +1,72 @@
+
+
+ 
+The Impossible Beam
+The New York Times
+December 23, 1997, Tuesday, Late Edition - Final
+Copyright 1997 The New York Times Company
+Distribution: Editorial Desk 
+Section: Section A; ; Section A; Page 19; Column 2; Editorial Desk ; Column 2; ; Op-Ed
+Length: 697 words
+Byline: By Lawrence M. Krauss; 
+Lawrence M. Krauss is chairman of the physics department at Case Western Reserve and author of "Beyond Star 
+Trek: Physics From Alien Invasions to the End of Time."
+By Lawrence M. Krauss;  Lawrence M. Krauss is chairman of the physics department at Case Western Reserve 
+and author of "Beyond Star Trek: Physics From Alien Invasions to the End of Time."
+Body
+The phone rings at 6:15 A.M. In my stupor, I pick it up and hear: "Good morning, Rock Radio 690 here! Is this the 
+professor who wrote the 'Star Trek' book?" My caller, it seems, has an urgent question: "Have you heard about the 
+news reported from Austria on quantum teleportation of photons?"
+This  may  sound  like  a  weird  dream  (or  nightmare,  depending  upon  your  attitude  toward  physics),  except  that  it 
+actually  happened.  A  group  of  European  scientists  have  destroyed  a  single  particle  of  light  in  one  place  and 
+reproduced it instantly somewhere else in their lab, the equivalent of teleportation.
+You  may  have  missed  the  news,  but  be  assured  that  few  Trekkers  did.  Let's  go  back  in  time  30  years.  Gene 
+Roddenberry, the creator of "Star Trek," didn't have the budget to show a starship landing on a different planet each 
+week. So when he was asked how the crew would get down to where the action was, he responded, "We'll beam 
+them down!" Thus was the Transporter born, and the phrase "Beam me up, Scotty" soon became a part of popular 
+culture.
+And  why  not?  Who  wouldn't  want  to  be  transported  instantly  to  their  destination  without  having  to  endure  lost 
+luggage and packed planes? But there is a problem: the Heisenberg Uncertainty Principle of Quantum Mechanics 
+states that we can never simultaneously measure exactly where each particle in your body is and what it is doing. 
+Clearly we need to know both things if we are to re-create your body exactly, atom by atom.
+Or  do  we?  The  experimental  physicist  Anton  Zeilinger  and  his  colleagues  in  Austria,  following  on  an  original 
+proposal  by  an  American  physicist,  Charles  Bennett,  and  his  colleagues  at  I.B.M.,  showed  that  it  is  precisely 
+possible  to  destroy  an  individual  particle  --  in  this  case  the  quantum  of  light  called  a  photon  --  in  one  place  and 
+instantly (yes, faster than the speed of light!) transfer its properties exactly to another photon on the other side of 
+the room -- or, if you set things up correctly, on the other side of the galaxy! This is the stuff that dreams are made 
+of,  which  explains  the  early  morning  phone  calls  with  the  burning  question,  How  long  might  it  be  before  we  could 
+transport a person?
+Well,  sadly,  the  answer  still  is,  probably  never.  Quantum  mechanics  tells  us  that  elementary  particles  carry,  in 
+essence, much more information than we can get ahold of in a single measurement and, moreover, that measuring 
+
+Page 2 of 2
+The Impossible Beam
+ 
+them inevitably changes them in the process -- the root of Heisenberg's principle. The clever researchers in Austria 
+and the United States were able to get around the Heisenberg principle by never actually measuring the first photon 
+before destroying it and transferring its identity.
+They  did  so  by  exploiting  the  quantum  mechanical  nature  of  the  elementary  particles  themselves:  if  undisturbed, 
+they  can  carry  and  transfer  information  that  is  not  directly  accessible  by  the  measurement  process.  But  this  trick 
+won't  work  with  people,  or  any  large,  classical  objects,  where  this  extra  information  would  be  washed  out  by 
+interactions before you could transfer it.
+So, is all of this in the end mere gamesmanship by physicists who try to exploit the eccentricities of nature for their 
+own  amusement?  Not  really.  The  techniques  of  quantum  teleportation  may  not  make  air  travel  obsolete.  But  as 
+computers  become  smaller,  these  same  techniques  may  allow  the  development  of  "quantum  computers,"  which 
+directly exploit the quantum weirdness of nature at its smallest scales to perform calculations in seconds that would 
+require present-day computers longer than the age of the universe. Indeed, I claim that this very sort of technique 
+will change 21st-century technology more than any single development has affected technology in the 20th century.
+My  own  hyperbole  notwithstanding,  perhaps  the  prospect  of  quantum  computing  doesn't  seem  as  exciting  as 
+teleportation. What would it take to make it so? Perhaps the realization that such computers might re-create another 
+popular vision from the Big Screen. With potentially faster computers comes the possibility of intelligence and self-
+awareness, and with that comes the possibility of HAL, or perhaps his less malevolent cousin, Data. Stay tuned.
+Graphic
+ 
+Photos (Amy Franceschini)
+Classification
+Language: ENGLISH
+Subject: PHYSICS (90%); QUANTUM MECHANICS (90%); REPORTS, REVIEWS & SECTIONS (79%); 
+EDITORIALS & OPINIONS (73%)
+Company: LET'S GO PUBLICATIONS INC  (56%); LET'S GO PUBLICATIONS INC  (56%)
+Geographic: AUSTRIA (90%); UNITED STATES (86%)
+Load-Date: December 23, 1997
+End of Document

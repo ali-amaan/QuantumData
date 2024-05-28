@@ -1,0 +1,88 @@
+
+
+ 
+Future of computing may lie in a coffee cup 
+The Star-Ledger (Newark, New Jersey)
+November 10, 1997 Monday
+FINAL EDITION
+Copyright 1997 Newark Morning Ledger Co. All Rights Reserved
+Section: TECH; Pg. 39
+Length: 764 words
+Byline: Kevin Coughlin, Star-Ledger Staff
+Dateline: CAMBRIDGE, Mass. 
+Body
+You won't have to worry about spilling coffee onto the computers of the future. In fact, it may be necessary.
+ Professor  Neil  Gershenfeld  of  the  Massachusetts  Institute  of  Technology's  Media  Laboratory  is  happy  to 
+demonstrate, pouring a cup of muddy java into a thin, coil-wrapped cylinder.
+ He's illustrating his concept of quantum computing. It's a bold idea, intended to take computing deep into the next 
+millennium, after conventional methods for shrinking transistors reach their physical limits.
+ He  has  competition.  Some  of  the  country's  brightest  minds  are  looking  20  years  down  the  road  for  new  ways  of 
+computing. They contemplate chemical fabrication processes called nanotechnology, optical systems that transmit 
+data with light pulses instead of electrical signals, and even organic methods for growing some sort of processor.
+It's a worthy challenge for the Media Lab, a corporate-sponsored idea factory.
+Gershenfeld says quantum computing can turn ordinary molecules into processors. He thinks developing this new 
+breed of computers will be cheaper than trying to extend the limits of transistor manufacturing. He says the cost of 
+building new and improved chip plants could exceed the gross national product of Planet Earth in just two decades.
+ Quantum  computers  would  pack  a  number-crunching  wallop  unlike  anything  known  today.  In  a  single  day,  one 
+quantum machine could solve problems that would tie up today's fastest computer for the lifetime of the universe - a 
+pretty long time.
+ This quantum leap will bound into something called "Hilbert space," the "quantum part of the universe we don't use. 
+It's the only untapped resource," says Gershenfeld.
+For those who spent physics class in Hilbert space, here are the Cliff Notes:
+ Computers  process  information  in  strings  of  1s  and  0s  stored  in  transistors.  Quantum  computers  could  store 
+"qubits"  in  protons,  where  their  "up"  or  "down"  spin  would  correspond  to  1s  and  0s.  Now  for  the  weird  part. 
+According  to  quantum  theory,  protons  lead  a  dual  existence.  They  can  be  up  and  down  at  the  same  time.  This 
+translates to an exponential rise in the number of calculations they can perform simultaneously.
+ Any questions?
+ Liquids offer the most stable environment for this kind of programming, says Gershenfeld. Caffeine molecules just 
+might work.
+
+Page 2 of 3
+Future of computing may lie in a coffee cup 
+ 
+ "All  along,  molecules  have  known  how  to  compute.  Ordinary  molecules.  Caffeine  in  coffee  knew  how.  We  just 
+didn't know how to ask the right questions," says Gershenfeld, who has made a rudimentary quantum computer 
+he  compares  to  the  Altair,  forerunner  of  the  PC.  Though  it  may  take  decades  to  perfect,  he  is  confident  that, 
+eventually, a computer "will be a container, where you pour in processor fluid."
+ Meantime,  at  the  legendary  Xerox  PARC,  the  Palo  Alto  (Calif.)  Research  Center,  Ralph  Merkle  is  betting  on 
+nanotechnology, a chemical process for creating complex structures molecule by molecule.
+ "Think of rearranging atoms and molecules the way you might arrange and rearrange Lego blocks," Merkle says. 
+"Whatever the technology and whatever we wish to build, we must build it with a great deal of precision."
+ Today's  photochemical  methods,  which  can  print  millions  of  transistors  on  a  stamp-  sized  chip,  are  not  precise 
+enough to keep the Incredible Shrinking Transistor shrinking indefinitely. In today's process, atoms are sprayed "all 
+over the place" (a process called doping) to produce the desired electrical qualities in a semiconductor chip.
+ "It's like firing screws, wrenches and tools at a car to build a car. It's not the best way to build a car," says Merkle.
+ But don't hold the phone for news on nanotechnology. Even synthesizing simple molecules is a painstaking task for 
+modern chemists. Merkle says it may be decades before they can build structures with millions or billions of atoms. 
+Moreover,  research  is  scattered;  he  thinks  it  will  take  something  akin  to  the  Apollo  project  to  move  any  of  these 
+concepts from science fiction to reality.
+ Nor is Merkle is optimistic about replacing electrical pulses with light waves, another grand strategy of the future. 
+Although  light  works  well  for  long-distance  communications  (the  phone  companies  uses  lots  of  lasers  today),  he 
+says light wavelengths are too wide for advanced computing. "We want to build devices much smaller than that," he 
+says.
+ William Brinkman of Bell Labs says all this talk of a sci-fi future is, well, premature.
+ "Silicon  won't  run  out  for  another  15  years,  and  it  will  be  pretty  awesome  at  that  stage,"  he  says.  "Nobody  talks 
+about replacing the light bulb. It's pretty much what it's always been."
+Graphic
+ 
+1. Professor Neil Gershenfeld of the Massachusetts Institute of Technology's Media Laboratory demonstrates one 
+idea for quantum computers, sort of a Mr. Fusion for the next millennium.
+Classification
+Language: ENGLISH
+Publication-Type: Newspaper
+Journal Code: nsl
+Subject: NANOELECTRONICS (90%); QUANTUM COMPUTING (90%); QUANTUM MECHANICS (89%); 
+SCIENCE & TECHNOLOGY (89%); PHYSICS (77%); MANUFACTURING FACILITIES (74%); 
+NANOTECHNOLOGY (74%); RESEARCH INSTITUTES (72%); GROSS NATIONAL PRODUCT (70%)
+
+Page 3 of 3
+Future of computing may lie in a coffee cup 
+ 
+Organization: MASSACHUSETTS INSTITUTE OF TECHNOLOGY (91%)
+Industry: COMPUTER EQUIPMENT (90%); NANOELECTRONICS (90%); QUANTUM COMPUTING (90%); 
+MANUFACTURING (79%); DATA TRANSMISSION (77%); SEMICONDUCTOR MFG (75%); MANUFACTURING 
+FACILITIES (74%)
+Geographic: NEWARK, NJ, USA (88%); EARTH (79%); MASSACHUSETTS, USA (74%); NEW JERSEY, USA 
+(73%); CALIFORNIA, USA (66%)
+Load-Date: April 18, 2007
+End of Document
