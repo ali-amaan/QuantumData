@@ -15,9 +15,9 @@ const configuration = new Configuration({
     apiKey: process.env.OPENAI_API_KEY, // Load API key from environment variable
 });
 
-  const openai = new OpenAIApi(configuration);
+const openai = new OpenAIApi(configuration);
 
-
+// List of prompts to be used
 const prompts = [  
   "Who are the actors mentioned in the following text, and what emotions does the following text associate with each. Text: ",
 ];
@@ -42,17 +42,19 @@ if (!fs.existsSync(folderName)) {
   process.exit(1);
 }
 
+// Function to pause execution for a given number of milliseconds
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+// Function to send a prompt to the OpenAI GPT model and get a response
 async function GPT(GPTprompt){
   console.log("Sending prompt.");
   var prompt = GPTprompt;
-  if(prompt.length > 7000)
+  if (prompt.length > 7000) {
     prompt = prompt.substring(0,7000);
-  try
-  {
+  }
+  try {
     var response = await openai.createChatCompletion({
       model: GPTModel,     
       messages: [{role: "system", content:""},
@@ -63,27 +65,28 @@ async function GPT(GPTprompt){
       frequency_penalty: 0,
       presence_penalty: 0, 
       }).catch(err => {  
-          console.log("Error: "+err.stack);
+          console.log("Error: "+ err.stack);
       });  
-      if(response.data.choices != null)
-      {
+
+      if (response && response.data.choices) {
         // console.log("Response received:" + response.data.choices[0].message.content);
         var gptresponse = response.data.choices[0].message.content;
-        if (prompt.length < GPTprompt.length)
+        if (prompt.length < GPTprompt.length) {
           gptresponse = gptresponse + "*ABR*";
+        }
         return gptresponse; 
+      } else {
+          console.log("Error, unexpected response from OpenAI!");
+          return "Error, unexpected response from OpenAI!";
       }
-      else
-          return "Error, unexpected response from OpenAI!";   
-  }
-  catch(error)
-  {
-      console.log(error.message);
-      console.log("OpenAI is probably not working...");
-      return "Error from OpenAI!";
+  } catch(error) {
+    console.log(error.message);
+    console.log("OpenAI is probably not working...");
+    return "Error from OpenAI!";
   }
 }
 
+// Function to process the prompts and gather responses
 async function runPrompts(data, filename) {
   var abridgedData = data;
   if (data.length > 32767) {
@@ -92,89 +95,62 @@ async function runPrompts(data, filename) {
     abridgedData = data.substring(0,30000); // Truncating as an example
   }
   var responses = [filename, abridgedData];
-  for(var i = 0; i < prompts.length; i++){
+  for (var i = 0; i < prompts.length; i++) {
     console.log("Processing prompt:" + prompts[i]);
     var response = await GPT(prompts[i] + he.encode(data));
     if (response.length > 32767) {
       // Handle the case where data is too long
       // E.g., truncate or split the data
       response = response.substring(0, 30000); // Truncating as an example
-  }
-    if(response != null)
-    {
-      console.log("Response: " + response);
-      responses.push(response);  
     }
-    else
-      responses.push(["Error from OpenAI!"]);
-    await setTimeout(2000); // Arbitrary 2 second wait to avoid OpenAI freezing up...
+    responses.push(response ?? "Error from OpenAI!");
+    await sleep(2000); // Wait to avoid OpenAI rate limits
   }
   return responses;
 }
-/*
-async function runPrompts(data, filename) {
-  var responses ="<Row>";
-  var initialInput = '<Cell><Data ss:Type="String">' + he.encode(filename) + '</Data></Cell>' +"/n"+
-  '<Cell><Data ss:Type="String">' + he.encode(data) + '</Data></Cell>';
-  responses = responses + initialInput;
-  for(var i = 0; i < prompts.length; i++){
-    console.log("Processing prompt:" + prompts[i]);
-    var response = await GPT(prompts[i] + he.encode(data));
-    if(response != null)
-    {
-      console.log("Response: " + response);
-      responses = responses + '<Cell><Data ss:Type="String">' + he.encode(response) + '</Data></Cell>';  
-    }
-    await setTimeout(2000); // Arbitrary 2 second wait to avoid OpenAI freezing up...
-  }
-  responses = responses + "</Row>";
-  console.log("RESPONSES: " + responses);
-  return responses;
-}
-*/
 
-// Process a specific file
+// Function to process a specific file
 async function processFile(file, filePath) {
   if (fs.lstatSync(filePath).isFile()) {
     try {
-      if(path.extname(file) === '.txt')
-      {
+      if (path.extname(file) === '.txt') {
         const data = await fsPromises.readFile(filePath, 'utf8');
-        console.log("Textfile, processing prompts!");
+        console.log("Text file, processing prompts!");
         return await runPrompts(data, file);
+      } else {
+        console.log("Not a text file, skipping!");
       }
-      else  
-        console.log("Not a text file, skipping!");      
-    } 
-    catch (err) {
+    } catch (err) {
       console.error(`Error reading file ${filePath}`, err);
     }
   }
 }
 
-// Read the directory
+// Main processing function to read the directory and handle files
 try {
-    let wb = XLSX.utils.book_new(); // New workbook
-    let wsData = [
-        ["Filename", "Content"].concat(prompts),
-    ];
+  let wb = XLSX.utils.book_new(); // Create a new workbook
+  let wsData = [
+      ["Filename", "Content"].concat(prompts), // Header row
+  ];
+
   const files = fs.readdirSync(folderName);
   for (const file of files) {
-      console.log("Processing file: " + file);
-      const filePath = path.join(folderName, file);
-      const outputRow = await processFile(file, filePath);
-      if (outputRow != null)
-       wsData.push(outputRow);
+    console.log("Processing file: " + file);
+    const filePath = path.join(folderName, file);
+    const outputRow = await processFile(file, filePath);
+    if (outputRow) {
+      wsData.push(outputRow);
     }
-    var folder = folderName;
-    if (!folder.endsWith('/')) {
-      folder += '/';
-    }
-    let ws = XLSX.utils.aoa_to_sheet(wsData); // Create a worksheet
-    XLSX.utils.book_append_sheet(wb, ws, "Sheet1"); // Append worksheet to workbook
-    XLSX.writeFile(wb, folder+'output.xlsx'); // Write workbook to file
   }
-  catch (err) {
-  console.error('Something happened.', err);
+
+  var folder = folderName;
+  if (!folder.endsWith('/')) {
+    folder += '/';
+  }
+  let ws = XLSX.utils.aoa_to_sheet(wsData); // Create a worksheet
+  XLSX.utils.book_append_sheet(wb, ws, "Sheet1"); // Append worksheet to workbook
+  XLSX.writeFile(wb, folder+'output.xlsx'); // Write workbook to file
+} catch (err) {
+  console.error('Something happened with file processing...', err);
   process.exit(1);
 }
