@@ -1,25 +1,25 @@
-# QuantumData - AI-Based Research Document Retrieval Web App
+![QuantumData Banner](https://github.com/ali-amaan/QuantumData/assets/QuantumData_Banner.png)
 
-![QuantumData Banner](link_to_your_banner_image)
-
+# QuantumData - Qualitative Research Tool (AI/RAG Based)
+---
 <p>
     <a href="https://github.com/ali-amaan/QuantumData/stargazers"><img src="https://img.shields.io/github/stars/ali-amaan/QuantumData" alt="Github stargazers"></a>
     <a href="https://github.com/ali-amaan/QuantumData/issues"><img src="https://img.shields.io/github/issues/ali-amaan/QuantumData" alt="Github issues"></a>
     <a href="https://github.com/ali-amaan/QuantumData/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ali-amaan/QuantumData" alt="license"></a>
-    <a href="https://twitter.com/YourTwitterHandle"><img src="https://img.shields.io/twitter/follow/YourTwitterHandle?style=social" alt="Twitter follow"></a>
 </p>
 
-QuantumData is an AI-based research document retrieval web application designed to help researchers efficiently find relevant documents and extract useful information using advanced AI models.
+QuantumData is an AI-based qualitative research tool designed to help researchers efficiently find and extract relevant information from their custom documents store for a smooth and efficient qualitative research experience using generative AI.
 
-## Features
+## 🥇 Features
 
 - AI-powered document retrieval
 - Natural language processing to understand user queries
+- Retrieval Augmented Generation (RAG) based extractions
 - Supports multiple file formats (PDF, DOCX, TXT)
 - User-friendly web interface
 - Scalable and customizable
 
-## Getting Started
+## 🛠️ Getting Started
 
 ### Prerequisites
 
@@ -58,7 +58,7 @@ QuantumData is an AI-based research document retrieval web application designed 
 
     The application will be running at `http://localhost:3000`.
 
-## Usage
+## 🚀 Usage
 
 1. **Upload your documents**
 
@@ -72,7 +72,7 @@ QuantumData is an AI-based research document retrieval web application designed 
 
     The AI will display the relevant documents along with extracted information related to your query.
 
-## Contributing
+## ✨ Contributing
 
 We welcome contributions from the community! Here’s how you can help:
 
@@ -107,11 +107,11 @@ We welcome contributions from the community! Here’s how you can help:
 
     Open a pull request on the original repository to merge your changes.
 
-## License
+## 🛡️ License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+## 🙏 Acknowledgements
 
 - [Professor Henri Schildt](https://www.aalto.fi/en/people/henri-schildt) for initial concept and ideation as well as a working prototype
 
@@ -122,5 +122,5 @@ For any questions or suggestions, feel free to reach out to us via [email](mailt
 ---
 
 <p align="center">
-  Made with ❤️ by [Your Name](https://github.com/ali-amaan)
+  Made with ❤️ in Helsinki
 </p>
