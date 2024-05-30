@@ -32,6 +32,10 @@ QuantumData is an AI-based qualitative research tool designed to help researcher
 - [ ] Responsive UI
 - [ ] Comet Haley
 
+## 🖥️ Preview
+
+[See & Interact with Figma Prototype](https://www.figma.com/proto/PvdjyWAPBUjxHYr5FXgK4Q/GPTCoding---QuantumData?page-id=0%3A1&node-id=1-50&viewport=1451%2C479%2C0.61&t=qwy4eiXgETIhcv0a-1&scaling=scale-down&starting-point-node-id=1%3A50) 
+
 ## 🛠️ Getting Started
 
 ### Prerequisites
