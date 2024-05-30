@@ -1,7 +1,7 @@
-![QuantumData Banner](https://github.com/ali-amaan/QuantumData/assets/QuantumData_Banner.png)
-
-# QuantumData - Qualitative Research Tool (AI/RAG Based)
----
+<picture>
+    <img alt="QuantumData Banner" src="https://github.com/ali-amaan/QuantumData/assets/QuantumData_Banner.png">
+</picture>
+# QuantumData
 <p>
     <a href="https://github.com/ali-amaan/QuantumData/stargazers"><img src="https://img.shields.io/github/stars/ali-amaan/QuantumData" alt="Github stargazers"></a>
     <a href="https://github.com/ali-amaan/QuantumData/issues"><img src="https://img.shields.io/github/issues/ali-amaan/QuantumData" alt="Github issues"></a>
