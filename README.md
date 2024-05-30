@@ -1,4 +1,5 @@
 <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ali-amaan/QuantumData/assets/QuantumData_Banner.png">  
     <img alt="QuantumData Banner" src="https://github.com/ali-amaan/QuantumData/assets/QuantumData_Banner.png">
 </picture>
 # QuantumData
