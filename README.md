@@ -1,24 +1,36 @@
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ali-amaan/QuantumData/assets/QuantumData_Banner.png">  
-    <img alt="QuantumData Banner" src="https://github.com/ali-amaan/QuantumData/assets/QuantumData_Banner.png">
-</picture>
+<div align="center">
+    <img height="400px" alt="QuantumData Banner" src="assets/QuantumData_Banner.png">
+</div>
+
 # QuantumData
+
 <p>
     <a href="https://github.com/ali-amaan/QuantumData/stargazers"><img src="https://img.shields.io/github/stars/ali-amaan/QuantumData" alt="Github stargazers"></a>
     <a href="https://github.com/ali-amaan/QuantumData/issues"><img src="https://img.shields.io/github/issues/ali-amaan/QuantumData" alt="Github issues"></a>
     <a href="https://github.com/ali-amaan/QuantumData/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ali-amaan/QuantumData" alt="license"></a>
+    <a href="https://www.linkedin.com/in/henri-schildt-57280"><img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn"></a>
 </p>
 
 QuantumData is an AI-based qualitative research tool designed to help researchers efficiently find and extract relevant information from their custom documents store for a smooth and efficient qualitative research experience using generative AI.
 
+>Please star ⭐ the repo if you want us to continue developing and improving the qualitative research tool! 😀
+
 ## 🥇 Features
 
-- AI-powered document retrieval
-- Natural language processing to understand user queries
-- Retrieval Augmented Generation (RAG) based extractions
-- Supports multiple file formats (PDF, DOCX, TXT)
-- User-friendly web interface
-- Scalable and customizable
+- [x] AI-powered document retrieval
+- [x] Natural language processing to understand user queries
+- [x] Retrieval Augmented Generation (RAG) based extractions
+- [x] Supports multiple file formats (PDF, DOCX, TXT)
+
+## ➡️ Coming Soon
+- [ ] Create Account
+- [ ] Sign in with Email and Password
+- [ ] User-friendly web interface
+- [ ] Database integration
+- [ ] Cloud Deployement Ready
+- [ ] Sign in with Google [Setting up Google OAuth]
+- [ ] Responsive UI
+- [ ] Comet Haley
 
 ## 🛠️ Getting Started
 
@@ -74,6 +86,27 @@ QuantumData is an AI-based qualitative research tool designed to help researcher
     The AI will display the relevant documents along with extracted information related to your query.
 
 ## ✨ Contributing
+
+### Guidelines
+
+Thanks for taking the time to contribute! Contributions make the open-source community a fantastic place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Please try to create bug reports that are:
+
+- Reproducible. Include steps to reproduce the problem.
+- Specific. Include as much detail as possible: which version, what environment, etc.
+- Unique. Do not duplicate existing opened issues.
+- Scoped to a Single Bug. One bug per report.
+
+See [Contributing Guide](CONTRIBUTING)
+
+### Contributors
+
+<a href="https://github.com/ali-amaan/QuantumData/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ali-amaan/QuantumData" />
+</a>
+
+### Steps For Contributing
 
 We welcome contributions from the community! Here’s how you can help:
 
