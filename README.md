@@ -98,7 +98,7 @@ Please try to create bug reports that are:
 - Unique. Do not duplicate existing opened issues.
 - Scoped to a Single Bug. One bug per report.
 
-See [Contributing Guide](CONTRIBUTING)
+See [Contributing Guide](CONTRIBUTING.md)
 
 ### Contributors
 
